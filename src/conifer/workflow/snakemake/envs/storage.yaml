@@ -1,0 +1,7 @@
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - pip:
+      - "--editable=git+https://github.com/percyfal/snakemake-storage-plugin-file.git@6d0635db78255786ebccdb54a515248d101548f4"
+      - "--editable=git+https://github.com/percyfal/snakemake-storage-plugin-rsync.git@a0535d10ff5e0cea34571c43cee46f438bbaba9d"

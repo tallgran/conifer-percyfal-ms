@@ -1,0 +1,292 @@
+VCF_ID	Population
+P15502-102	Northern breeding population
+P15502-133	Northern breeding population
+P15502-135	Northern breeding population
+P15502-138	Northern breeding population
+P15502-156	Northern breeding population
+P15502-157	Northern breeding population
+P15502-163	Northern breeding population
+P15502-168	Northern breeding population
+P15502-182	Northern breeding population
+P15502-184	Northern breeding population
+P15502-213	Northern breeding population
+P15502-231	Northern breeding population
+P15502-274	Northern breeding population
+P15766-121	Northern breeding population
+P15766-162	Northern breeding population
+P15766-176	Northern breeding population
+P15766-226	Northern breeding population
+P15766-234	Northern breeding population
+P15766-238	Northern breeding population
+P15766-267	Northern breeding population
+P17553-270	Northern breeding population
+P17553-275	Northern breeding population
+P17553-276	Northern breeding population
+P17553-278	Northern breeding population
+P17553-284	Northern breeding population
+P17553-312	Northern breeding population
+P17553-334	Northern breeding population
+P22451-159	Northern breeding population
+P17553-335	Range wide
+P17553-336	Range wide
+P17553-337	Range wide
+P17553-338	Range wide
+P17553-339	Range wide
+P17553-340	Range wide
+P17553-341	Range wide
+P17553-342	Range wide
+P17553-343	Range wide
+P17553-344	Range wide
+P17553-345	Range wide
+P17553-346	Range wide
+P17553-347	Range wide
+P17553-348	Range wide
+P17553-350	Range wide
+P17553-351	Range wide
+P17553-352	Range wide
+P17553-353	Range wide
+P17553-354	Range wide
+P17553-355	Range wide
+P17553-356	Range wide
+P17553-357	Range wide
+P17553-358	Range wide
+P17553-359	Range wide
+P17553-360	Range wide
+P17553-361	Range wide
+P17553-362	Range wide
+P17553-363	Range wide
+P17553-364	Range wide
+P17553-365	Range wide
+P17553-366	Range wide
+P17553-368	Range wide
+P17553-369	Range wide
+P17553-370	Range wide
+P17553-371	Range wide
+P17553-372	Range wide
+P17553-373	Range wide
+P17553-374	Range wide
+P17553-375	Range wide
+P17553-376	Range wide
+P17553-378	Range wide
+P17553-379	Range wide
+P17553-380	Range wide
+P17553-381	Range wide
+P17553-382	Range wide
+P17553-383	Range wide
+P17553-384	Range wide
+P17553-385	Range wide
+P17553-386	Range wide
+P17553-387	Range wide
+P17553-388	Range wide
+P17553-389	Range wide
+P17553-390	Range wide
+P17553-391	Range wide
+P17553-392	Range wide
+P17553-393	Range wide
+P17553-394	Range wide
+P17553-395	Range wide
+P17553-396	Range wide
+P17553-401	Range wide
+P17553-402	Range wide
+P17553-404	Range wide
+P17553-405	Range wide
+P17553-407	Range wide
+P17553-408	Range wide
+P17553-409	Range wide
+P17553-411	Range wide
+P17553-412	Range wide
+P17553-413	Range wide
+P17553-414	Range wide
+P17553-415	Range wide
+P17553-416	Range wide
+P17553-417	Range wide
+P17553-419	Range wide
+P17553-420	Range wide
+P17553-422	Range wide
+P17553-424	Range wide
+P17553-425	Range wide
+P17553-428	Range wide
+P17553-430	Range wide
+P17553-432	Range wide
+P17553-433	Range wide
+P17553-437	Range wide
+P17553-438	Range wide
+P17553-439	Range wide
+P17553-440	Range wide
+P17553-441	Range wide
+P17553-442	Range wide
+P17553-443	Range wide
+P17553-444	Range wide
+P17553-445	Range wide
+P17553-446	Range wide
+P17553-448	Range wide
+P17553-451	Range wide
+P17553-452	Range wide
+P17553-456	Range wide
+P17553-458	Range wide
+P17553-459	Range wide
+P17553-460	Range wide
+P17553-464	Range wide
+P17553-465	Range wide
+P17553-466	Range wide
+P17553-467	Range wide
+P17553-468	Range wide
+P17553-469	Range wide
+P17553-474	Range wide
+P17553-475	Range wide
+P17553-476	Range wide
+P17553-477	Range wide
+P17553-479	Range wide
+P17553-480	Range wide
+P17553-481	Range wide
+P17553-485	Range wide
+P17553-486	Range wide
+P17553-488	Range wide
+P17553-492	Range wide
+P17553-494	Range wide
+P17553-495	Range wide
+P17553-496	Range wide
+P17553-501	Range wide
+P17553-502	Range wide
+P17553-503	Range wide
+P17553-504	Range wide
+P17553-505	Range wide
+P17553-506	Range wide
+P17553-507	Range wide
+P17553-508	Range wide
+P17553-509	Range wide
+P17553-510	Range wide
+P17553-511	Range wide
+P17553-512	Range wide
+P17553-513	Range wide
+P17553-514	Range wide
+P17553-515	Range wide
+P17553-516	Range wide
+P17553-517	Range wide
+P17553-518	Range wide
+P17553-519	Range wide
+P17553-520	Range wide
+P17553-521	Range wide
+P17553-522	Range wide
+P17553-523	Range wide
+P17553-524	Range wide
+P17553-525	Range wide
+P17553-526	Range wide
+P17553-527	Range wide
+P17553-528	Range wide
+P17553-529	Range wide
+P17553-530	Range wide
+P17553-531	Range wide
+P17553-532	Range wide
+P17553-533	Range wide
+P17553-534	Range wide
+P17553-535	Range wide
+P17553-536	Range wide
+P17553-537	Range wide
+P17553-538	Range wide
+P17553-539	Range wide
+P17553-540	Range wide
+P17553-541	Range wide
+P17553-542	Range wide
+P17553-544	Range wide
+P17553-545	Range wide
+P17553-546	Range wide
+P17553-549	Range wide
+P17553-550	Range wide
+P17553-551	Range wide
+P17553-552	Range wide
+P17553-553	Range wide
+P17553-554	Range wide
+P17553-555	Range wide
+P17553-556	Range wide
+P17553-557	Range wide
+P17553-558	Range wide
+P17553-559	Range wide
+P17553-560	Range wide
+P17553-561	Range wide
+P17553-563	Range wide
+P17553-564	Range wide
+P17553-565	Range wide
+P17553-566	Range wide
+P17553-567	Range wide
+P17553-568	Range wide
+P17553-569	Range wide
+P17553-570	Range wide
+P17553-571	Range wide
+P17553-572	Range wide
+P17553-573	Range wide
+P17553-574	Range wide
+P17553-575	Range wide
+P17553-576	Range wide
+P17553-577	Range wide
+P17553-578	Range wide
+P17553-579	Range wide
+P17553-580	Range wide
+P17553-581	Range wide
+P17553-582	Range wide
+P17553-583	Range wide
+P17553-584	Range wide
+P17553-585	Range wide
+P17553-586	Range wide
+P17553-587	Range wide
+P17553-588	Range wide
+P17553-589	Range wide
+P17553-590	Range wide
+P17553-591	Range wide
+P17553-592	Range wide
+P17553-593	Range wide
+P17553-594	Range wide
+P17553-595	Range wide
+P17553-596	Range wide
+P21002-101	Range wide
+P21002-102	Range wide
+P21002-103	Range wide
+P21002-104	Range wide
+P21002-105	Range wide
+P21002-106	Range wide
+P21002-107	Range wide
+P21002-108	Range wide
+P21002-109	Range wide
+P21002-110	Range wide
+P21002-111	Range wide
+P21002-112	Range wide
+P21002-113	Range wide
+P21002-114	Range wide
+P21002-115	Range wide
+P21002-116	Range wide
+P21002-117	Range wide
+P21002-118	Range wide
+P21002-119	Range wide
+P21002-120	Range wide
+P21002-121	Range wide
+P21002-122	Range wide
+P21002-123	Range wide
+P21002-124	Range wide
+P21002-125	Range wide
+P21002-126	Range wide
+P21002-127	Range wide
+P21002-128	Range wide
+P21002-129	Range wide
+P21002-130	Range wide
+P21002-131	Range wide
+P21002-132	Range wide
+P24354-103	Range wide
+P24354-104	Range wide
+P24354-105	Range wide
+P24354-106	Range wide
+P24354-107	Range wide
+P24354-108	Range wide
+P24354-109	Range wide
+P267-102	Range wide
+P267-103	Range wide
+P267-104	Range wide
+P8109-101	Range wide
+P8109-102	Range wide
+P8109-103	Range wide
+P8109-104	Range wide
+P8109-105	Range wide
+P8109-107	Range wide
+P8109-108	Range wide
+P8109-109	Range wide
+P9904-107	Range wide
+P9904-117	Range wide

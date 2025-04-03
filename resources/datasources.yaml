@@ -1,0 +1,60 @@
+- data: data/bam/pacbio-hifi/diploid_sorted.bam
+  source: file://$PACBIO_HIFI_STORAGE/diploid_sorted.bam
+  description: >-
+    PacBio HiFi reads mapped to reference.
+
+- data: data/bam/pacbio-hifi/diploid_sorted.bam.csi
+  source: file://$PACBIO_HIFI_STORAGE/diploid_sorted.bam.csi
+  description: >-
+    PacBio HiFi reads mapped to reference, index.
+
+- data: "data/resources/Picab02_chromosomes.fasta.gz"
+  source: file://$REFERENCE_STORAGE/fasta/Picab02_chromosomes.fasta.gz
+  description: >-
+    Picea abies version 2.0 HiC chromosomes on which annotations are based.
+
+- data: "data/resources/Picab02_chromosomes.fasta.gz.fai"
+  source: file://$REFERENCE_STORAGE/fasta/Picab02_chromosomes.fasta.gz.fai
+  description: >-
+    Picea abies version 2.0 HiC chromosomes on which annotations are based, fasta index.
+
+- data: data/resources/Picab02_230926_at01_longest.gff3.gz
+  source: file://$REFERENCE_STORAGE/gff3/Picab02_230926_at01_longest.gff3.gz
+  description: >-
+    Annotation file consisting of longest (unique) coding regions from
+    230926, with TEs. Only used for analyses where we actually need
+    the TE coordinates.
+
+- data: data/resources/Picab02_230926_at01_longest_no_TE_sorted.gff3.gz
+  source: file://$REFERENCE_STORAGE/gff3/Picab02_230926_at01_longest_no_TE_sorted.gff3.gz
+  description: >-
+    Annotation file consisting of longest (unique) coding regions from
+    230926, without TEs. NB: this is *not* the main annotation file that should
+    be used for region-based analyses as it includes rRNA/tRNA-genes!
+
+- data: data/resources/Picab02_230926_at01_longest_no_TE_sorted_CDSonly.gff3.gz
+  source: file://$REFERENCE_STORAGE/gff3/Picab02_230926_at01_longest_no_TE_sorted_CDSonly.gff3.gz
+  description: >-
+    Annotation file consisting of longest (unique) coding regions from
+    230926, without TEs. This is the main annotation file that should
+    be used for region-based analyses.
+
+- data: "data/resources/Picab02_230926_at01_longest_no_TE_sorted.pseudogene.gff3.gz"
+  source: "file://$REFERENCE_STORAGE/pseudogenes/pseudogenes_50-50_merged_renamed_V3.gff3.gz"
+  description: >-
+    As of summer 2024, updated pseudogene file with smaller span
+    (150Mbp)
+
+
+- data: data/resources/TE_IDs_REMOVED.txt
+  source: file://$REFERENCE_STORAGE/gff3/TE_IDs_REMOVED.txt
+  description: >-
+    Genes identified as transposable element listed as IDs that have
+    been removed from assembly
+
+
+- data: "data/resources/pabies-2.0.fa.gz"
+  source: file://$CHUNKED_REFERENCE_STORAGE/parsed.pabies-2.0.fa.gz
+  description: >-
+    Picea abies locked reference sequence for mapping NB: this file is
+    gzipped and cannot be indexed with samtools.

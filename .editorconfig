@@ -1,0 +1,21 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_size = 4
+indent_style = space
+
+[bibliography.*]
+indent_size = 1
+
+[*.{md,yml,yaml,html,css,scss,js,cff,qmd}]
+indent_size = 2
+
+[*.{qmd,md,dtx,slim,R,ipynb,smk,pylintrc}]
+indent_size = unset
+
+[fontawesome.*]
+indent_size = unset

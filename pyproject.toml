@@ -1,0 +1,169 @@
+[project]
+name = "conifer"
+description = "Conifer population genomic analyses."
+readme = "README.md"
+# url = https://conifer/
+keywords = ["bioinformatics"]
+license = {text = "MIT"}
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Environment :: Console",
+    "Intended Audience :: Science/Research",
+    "Natural Language :: English",
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering :: Bio-Informatics"
+]
+dependencies = [
+    "importlib-metadata~=8.4.0",
+    "sgkit[vcf]~=0.9.0",
+    "pyfastx~=2.1.0",
+    "nbis-project-admin @ git+https://github.com/percyfal/nbis-project-admin@main",
+    "snakemake~=8.27",
+    "jupyter-console~=6.6.3",
+    "snakemake-executor-plugin-slurm~=0.11.2",
+    "notebook~=7.2.2",
+    "statsmodels~=0.14.4",
+    "pip~=24.3.1",
+    "jupyterhub~=5.2.1",
+    "bokeh~=3.6.2",
+    "jupyterlab~=4.2.5",
+    "pandoc~=2.4",
+    "bio2zarr @ git+https://github.com/percyfal/bio2zarr@bed2zarr",
+    "ipywidgets~=8.1.5",
+    "jupyter~=1.1.1",
+    "dask-labextension~=7.0.0",
+    "nodejs~=0.1.1",
+    "seaborn~=0.13.2",
+    "gffutils~=0.13",
+    "snakemake-storage-plugin-rsync @ git+https://github.com/percyfal/snakemake-storage-plugin-rsync",
+    "snakemake-storage-plugin-file @ git+https://github.com/percyfal/snakemake-storage-plugin-file",
+    "pypandoc~=1.15",
+    "pypandoc-binary~=1.15",
+    "graphviz~=0.20.3",
+    "pympler~=1.1",
+    "hvplot~=0.11.2",
+    "pandas~=2.2.3",
+    "pandas-bokeh~=0.5.5",
+    "selenium~=4.29.0",
+    "geckodriver~=0.0.1",
+    "lxml~=5.3.1",
+    "beautifulsoup4~=4.13.3",
+    "pybedtools~=0.12.0",
+]
+dynamic = ["version"]
+requires-python = ">= 3.11"
+
+[build-system]
+requires = ["hatchling", "hatch-vcs"]
+build-backend = "hatchling.build"
+
+[tool.hatch.version]
+source = "vcs"
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/conifer"]
+
+[project.scripts]
+conifer = "conifer.cli:cli"
+conifer-samplesheet = "conifer.tools.samplesheet:cli"
+conifer-partition-bed = "conifer.tools.partition_bed:cli"
+conifer-fai-to-bed = "conifer.tools.fai_to_bed:cli"
+conifer-genic-proximity-windows = "conifer.tools.genic_proximity_windows:cli"
+conifer-d4utils = "conifer.tools.d4utils:cli"
+conifer-manuscript-source-data = "conifer.tools.manuscript_source_data:cli"
+conifer-partition-samples = "conifer.tools.partition_samples:cli"
+conifer-vcfstats = "conifer.tools.vcfstats:cli"
+conifer-plot = "conifer.tools.plot:cli"
+conifer-plot-custom = "conifer.tools.plot_custom:cli"
+conifer-summarize = "conifer.tools.summarize:cli"
+conifer-summarize-diversity = "conifer.tools.summarize_diversity:cli"
+conifer-liftoverBED = "scripts.liftover_bed:main"
+bedhist = "scripts.bedhist:main"
+plot-tracks = "scripts.plot_tracks:main"
+msplot = "scripts.msplot:main"
+conifer-gffutils = "conifer.tools.gffutils:cli"
+conifer-presabs = "conifer.tools.presabs:cli"
+conifer-fasta2axt = "conifer.tools.fasta2axt:cli"
+conifer-watterson = "conifer.tools.watterson:cli"
+
+[tool.rye]
+managed = true
+dev-dependencies = [
+    "hatch-vcs~=0.4.0",
+    "hatch~=1.12.0",
+    "pyright~=1.1.378",
+    "pytest~=8.3.2",
+    "pre-commit~=3.8.0",
+    "bokeh-sampledata~=2024.2",
+]
+
+[tool.ruff]
+target-version = "py311"
+line-length = 79
+
+[tool.ruff.lint]
+select = [
+  "A",    # warn about shadowing built-ins
+  "E",    # style stuff, whitespaces
+  "F",    # important pyflakes lints
+  "I",    # import sorting
+  "N",    # naming
+  "T100", # breakpoints (probably don't want these in prod!)
+]
+
+[tool.ruff.lint.isort]
+# so it knows to group first-party stuff last
+known-first-party = ["tseda"]
+
+
+[tool.pyright]
+venvPath = "."          # rye installs the venv in the current dir
+venv = ".venv"          #       in a folder called `.venv`
+include = ["src"]
+pythonVersion = "3.12"  # if library, specify the _lowest_ you support
+reportMissingTypeStubs = false
+
+[tool.rye.scripts]
+fmt = "rye fmt"
+lint = "rye lint --fix src"
+check = "pyright" # Fix node version
+test = "rye test"
+precommit = "rye run pre-commit"
+all = { chain = ["fmt", "lint", "precommit"] }
+
+
+[tool.pytest.ini_options]
+minversion = "7.0"
+addopts = "-ra -q --strict-markers --doctest-modules"
+testpaths = [
+    "tests",
+]
+markers = [
+    "notimplemented:Test not implemented",
+]
+filterwarnings = [
+    "error",
+    "ignore::UserWarning",
+    "ignore::DeprecationWarning"
+]
+norecursedirs = "tests/helpers"
+pythonpath = ["tests"]
+
+[tool.tox]
+legacy_tox_ini = """
+[tox]
+envlist = py39
+isolated_build = true
+
+[testenv]
+deps =
+    pytest
+    pytest-coverage
+    pytest-runner
+    pip>=22.1.0
+    wheel
+commands = pytest
+"""

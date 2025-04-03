@@ -1,0 +1,159 @@
+$schema: "http://json-schema.org/draft-07/schema#"
+
+description: snakemake configuration file
+
+type: object
+
+definitions:
+  envmodules_list:
+    description: >-
+      hpc environment module list
+    type: array
+    items:
+      type: string
+    uniqueItems: true
+
+  count_coverage:
+    description: >-
+      Label in output file.
+    type: object
+    properties:
+      label:
+        type: string
+        description: >-
+          Sampleset name. The keyword ''ALL'' is reserved for the
+          default sampleset consisting of all samples.
+      missing_coverage:
+        type: integer
+        description: >-
+          Sites with coverage lower than missing_coverage are treated
+          as missing data.
+      min:
+        description: >-
+          Minimum number of samples required. Appropriate threshold
+          could be 0.5 (50%) of the number of samples.
+        type: integer
+      max:
+        description: >-
+          Maximum number of individuals at a site (aka sample size)
+        type: integer
+    required:
+      - min
+      - max
+      - label
+      - missing_coverage
+
+  sum_coverage:
+    description: >-
+      Coverage filter based on the total coverage for all samples at a
+      site.
+    type: object
+    properties:
+      label:
+        type: string
+        description: >-
+          Label in output file.
+      min:
+        type: integer
+        description: >-
+          Minimum required total coverage
+      max:
+        type: integer
+        description: >-
+          Maximum allowed coverage.
+    required:
+      - label
+      - min
+      - max
+
+  sampleset_mask:
+    description: >-
+      Configuration for a sampleset to generate mask
+    type: object
+    properties:
+      count_coverage:
+        type: object
+        $ref: "#/definitions/count_coverage"
+      sum:
+        type: object
+        $ref: "#/definitions/sum_coverage"
+      window_size:
+        type: array
+        items:
+          type: integer
+
+properties:
+  ref:
+    description: reference sequence
+    type: string
+    pattern: .+\.(fa|fasta)$
+    example: ref.fa
+  samples:
+    description: >-
+      sample definition file
+    type: string
+    pattern: .+\.(tsv|csv)$
+    example:
+  chromosomes:
+    description: >-
+      List of chromosome names to analyse.
+    type: array
+    items:
+      type: string
+  envmodules:
+    type: object
+    description: >-
+      envmodules listings for relevant rules. The keyword groups rules
+      that share conda environment file. The provided examples give an
+      idea of what modules to load. Note that the names may differ
+      depending on what naming conventions your HPC employs.
+    default: {}
+    properties:
+      bcftools:
+        default: []
+        $ref: "#/definitions/envmodules_list"
+      bedtools:
+        default: []
+        $ref: "#/definitions/envmodules_list"
+      gawk:
+        default: []
+        $ref: "#/definitions/envmodules_list"
+      mosdepth:
+        default: []
+        $ref: "#/definitions/envmodules_list"
+      samtools:
+        default: []
+        $ref: "#/definitions/envmodules_list"
+      vcftools:
+        default: []
+        $ref: "#/definitions/envmodules_list"
+      tabix_bgzip:
+        default: []
+        $ref: "#/definitions/envmodules_list"
+  mask:
+    type: object
+    description: >-
+      Configuration for mask file generation.
+    properties:
+      features:
+        type: array
+        items:
+          type: string
+        uniqueItems: true
+      window_size:
+        type: array
+        items:
+          type: integer
+        uniqueItems: true
+      sampleset:
+        type: object
+        patternProperties:
+          .+:
+            type: object
+            $ref: "#/definitions/sampleset_mask"
+
+
+# entries that have to be in the config file for successful validation
+required:
+  - ref
+  - samples

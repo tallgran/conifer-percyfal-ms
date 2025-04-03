@@ -1,0 +1,8 @@
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  - d4tools=0.3.8
+  - bedtools
+  - htslib

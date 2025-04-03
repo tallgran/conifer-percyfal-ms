@@ -1,0 +1,43 @@
+default_language_version:
+  node: 17.9.1
+exclude: "config/rackham"
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.5.0
+    hooks:
+      - id: check-added-large-files
+        exclude: docs/diversity/index.ipynb
+      - id: check-merge-conflict
+      - id: debug-statements
+      - id: mixed-line-ending
+      - id: check-case-conflict
+      - id: check-yaml
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+  - repo: https://github.com/snakemake/snakefmt
+    rev: v0.9.0
+    hooks:
+      - id: snakefmt
+        args:
+          [ "-v",
+          ]
+  - repo: local
+    hooks:
+      - id: lint
+        name: Snakemake lint
+        entry: snakemake --configfile config/config.yaml --configfile config/envmodules.yaml --lint text -v -s
+        language: system
+        log_file: 'snakemake-lint.txt'
+        files: '.*\.smk$|Snakefile'
+        exclude: .*/test-.*\.smk$
+  - repo: https://github.com/DavidAnson/markdownlint-cli2
+    rev: v0.11.0
+    hooks:
+      - id: markdownlint-cli2
+        files: \.(md|qmd)$
+        types: [file]
+        exclude: LICENSE.md
+      - id: markdownlint-cli2-fix
+        files: \.(md|qmd)$
+        types: [file]
+        exclude: LICENSE.md

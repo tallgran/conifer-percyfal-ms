@@ -1,0 +1,24 @@
+restart-times: 0
+max-jobs-per-timespan: 1000/1m
+max-status-checks-per-second: 10
+local-cores: 256
+cores: 256
+latency-wait: 60
+use-envmodules: true
+use-conda: false
+rerun-triggers:
+  - mtime
+drop-metadata: false
+rerun-incomplete: true
+keep-going: true
+
+set-threads:
+  - mosdepth=20
+  - summarize_vcftools_statistics=4
+  - summarize_vcftools_statistics_genic_proximity=4
+  - summarize_vcftools_statistics_feature_regions=4
+  - vcfstats_oneway_stats=20
+  - summarize_coverage_over_feature=4
+set-resources:
+  - mosdepth:runtime=1200
+  - summarize_coverage_over_feature:mem_mb=32000

@@ -1,0 +1,32 @@
+envmodules:
+  #__site__:
+  #    - bioinfo-tools
+  bamtools:
+    - bamtools/2.5.2
+  bcftools:
+    - bcftools/1.20
+    - htslib/1.20
+  bedtools:
+    - bedtools/2.31.0
+    - htslib/1.20
+    - samtools/1.20
+  d4tools:
+    - bedtools/2.31.0
+    - samtools/1.20
+  gawk:
+    - gawk/4.1.4
+  mosdepth:
+    - bioinfo-tools
+    - mosdepth/0.3.3
+  multiqc:
+    - MultiQC/1.12
+  qualimap:
+    - QualiMap/2.2.1
+  samtools:
+    - samtools/1.14
+  tabix_bgzip:
+    - htslib/1.20
+  vcftools:
+    - vcftools/0.1.16
+    - bcftools/1.20
+    - htslib/1.20

@@ -1,0 +1,117 @@
+workdir: /proj/uppstore2017145/V2/users/perun/conifer
+datasources: "resources/datasources.yaml"
+samples: "resources/samplesheet.tsv"
+ref: "data/resources/pabies-2.0.fa"
+
+chromosomes: ["PA_chr01", "PA_chr02", "PA_chr03", "PA_chr04",
+"PA_chr05", "PA_chr06", "PA_chr07", "PA_chr08", "PA_chr09",
+"PA_chr10", "PA_chr11", "PA_chr12"]
+
+coverage:
+  MQ:
+    0:
+      samples: ["diploid", "P17553-344"]
+      plots:
+        samples: ["diploid", "P17553-344"]
+        window_size: [100000]
+        html_samples: ["diploid", "P17553-344"]
+    10:
+      plots:
+        window_size: [100000]
+        html_samples: ["diploid", "P17553-344"]
+
+aggregate_coverage:
+  - sampleset: P.abies
+    minimum_coverage: [1, 3]
+    mapping_quality: [10]
+    num_bins: 20
+    window_size: [100000]
+  - sampleset: highcov
+    minimum_coverage: [3]
+    mapping_quality: [10]
+    num_bins: 20
+    window_size: [100000]
+  - sampleset: north
+    minimum_coverage: [3]
+    mapping_quality: [10]
+    num_bins: 20
+    window_size: [100000]
+  - sampleset: south
+    minimum_coverage: [3]
+    mapping_quality: [10]
+    num_bins: 20
+    window_size: [100000]
+  - sampleset: northsouth
+    minimum_coverage: [3]
+    mapping_quality: [10]
+    num_bins: 20
+    window_size: [100000]
+
+
+mask:
+  features: ["genome", "intergenic", "pseudogene",
+  "gene", "intron", "UTR", "five_prime_UTR", "three_prime_UTR", "exon", "CDS", "TE.gene"]
+  window_size: [50000, 100000]
+  sampleset:
+    P.abies:
+      window_size: [1000000, 10000000]
+      count_coverage:
+        label: count_ge3
+        missing_coverage: 3
+        min: 528
+        max: 1070
+      sum_coverage:
+        label: sum
+        min: 4248
+        max: 11258
+    highcov:
+      window_size: [1000000, 10000000]
+      count_coverage:
+        label: count_ge3
+        missing_coverage: 3
+        min: 148
+        max: 1070
+      sum:
+        label: sum
+        min: 2000
+        max: 4500
+    north:
+      window_size: [1000000, 10000000]
+      count_coverage:
+        label: count_ge3
+        missing_coverage: 3
+        min: 13
+        max: 1070
+      sum:
+        label: sum
+        min: 166
+        max: 512
+    south:
+      window_size: [1000000, 10000000]
+      count_coverage:
+        label: count_ge3
+        missing_coverage: 3
+        min: 13
+        max: 1070
+      sum:
+        label: sum
+        min: 159
+        max: 514
+    # northsouth:
+    #   window_size: [1000000]
+    #   count_coverage:
+    #     label: count_ge3
+    #     missing_coverage: 3
+    #     min: 26
+    #     max: 1070
+    #   sum:
+    #     label: sum
+    #     min: 285
+    #     max: 936
+    # diploid:
+    #   window_size: [100000]
+    #   is_sample: True
+    #   sum:
+    #     label: sum
+    #     min: 10
+    #     max: 83

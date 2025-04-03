@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  - bedtools
+  - dash_bio
+  - d4tools
+  - plotly

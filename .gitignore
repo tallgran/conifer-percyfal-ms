@@ -1,0 +1,62 @@
+.gitignore
+.snakemake
+.env
+.envrc
+.Rhistory
+
+# Intermediate folders
+opt/
+data/
+data/aggregate_coverage/
+data/bam/
+data/interim/
+data/mask/
+data/mosdepth_coverage/
+data/samtools_depth/
+data/vcf/
+data/zarr/
+tests/data/
+reports/
+
+# Files
+_version.py
+
+# Misc
+*.egg-info
+__pycache__
+
+*.~undo-tree~
+/docs/running-slides_cache/
+.cache
+Makefile
+/config/rackham.test/*.py
+/config/rackham.test/settings.json
+/config/rackham.test/slurm-jobscript.sh
+# /src/conifer/tools/samplesheet.py
+# /docs/running-slides.qmd
+# /docs/running-slides-short.qmd
+
+index_cache
+index_files
+results/
+index.confluence
+
+/resources/samplesets/
+/.local/
+/benchmarks/
+/resources/
+
+/logs/
+/notebooks/
+.python-version
+.jupyter/
+.ipynb_checkpoints/
+
+# File types
+*.html
+*.xml
+*.png
+
+# pixi environments
+.pixi
+*.egg-info

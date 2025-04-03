@@ -1,0 +1,31 @@
+$schema: "http://json-schema.org/draft-07/schema#"
+
+description: an entry in the sample sheet
+properties:
+  SM:
+    type: string
+    description: sample name/identifier
+    pattern: "(P[0-9]+-[0-9]+|P.obovata_P24355|Engelmannii_SRX1530215|Glauca_SRX160982|Sitchensis_SRX2354260|diploid|haploid_ERX242653)"
+  name:
+    type: string
+    description: alternative sample name
+  Latitude:
+    type: ['null', number]
+    description: sampling latitude
+  Longitude:
+    type: ['null', number]
+    description: sampling longitude
+  Location:
+    type: ['null', string]
+    description: Sampling location / population group
+
+patternProperties:
+  '[a-zA-Z0-9_\.]+':
+    description: additional metadata column
+    type: [string, number]
+
+required:
+  - SM
+
+
+additionalProperties: false

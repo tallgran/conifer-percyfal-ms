@@ -1,0 +1,9 @@
+mosdepth_config:
+  include_contigs:
+    - "total*"
+  mosdepth/summary:
+    fn: '*.mosdepth.summary.txt'
+  mosdepth/global_dist:
+    fn: '*.mosdepth.global.dist.txt'
+  mosdepth/region_dist:
+    fn: '*.mosdepth.region.dist.txt'

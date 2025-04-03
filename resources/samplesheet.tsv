@@ -1,0 +1,1074 @@
+Scilife-ID	SM	VCF-ID	Lab-ID	ENA-project-ID	Experiment-ID	Biosample	Species	Country	Population	Latitude	Longitude	Altitude	Lab	Note	PopulationType
+NA	diploid	Diploid	NA	NA	ERX11668071	NA	P.abies	Sweden	NA	63.3	15.98	NA	NA	NA	Reference
+NA	haploid_ERX242653	Haploid_ERX242654	NA	NA	ERX242654	NA	P.abies	Sweden	NA	63.3	15.98	NA	NA	NA	Reference
+NA	Engelmannii_SRX1530215	P_engelmannii	NA	PRJNA504036	multiple	SAMN10388286	P.engelmannii	NA	NA	NA	NA	NA	NA	NA	Outgroup
+NA	Glauca_SRX160982	P_glauca	NA	PRJNA83435	multiple	SAMN01120252	P.glauca	NA	NA	NA	NA	NA	NA	NA	Outgroup
+NA	Sitchensis_SRX2354260	P_sitchensis	NA	PRJNA304257	multiple	SAMN04296985	P.sitchensis	NA	NA	NA	NA	NA	NA	NA	Outgroup
+P267-101	P267-101	P267-101	Pab001	PRJEB34927	ERX4142816	SAMEA6526532	P.obovata	Russia	NA	62	129.6	NA	Ingvarsson	NA	Outgroup
+P267-105	P267-105	P267-105	Pab002	PRJEB34927	ERX4142817	SAMEA6526533	P.abies	Sweden	NA	57.2	15.1	NA	Ingvarsson	NA	RangeWide
+P267-102	P267-102	P267-102	Pab003	PRJEB34927	ERX4142818	SAMEA6526534	P.abies	Belgium	NA	55.1	30.1	NA	Ingvarsson	NA	RangeWide
+P267-103	P267-103	P267-103	Pab004	PRJEB34927	ERX4142819	SAMEA6526535	P.abies	Poland	NA	51.1	20.5	NA	Ingvarsson	NA	RangeWide
+P267-104	P267-104	P267-104	Pab005	PRJEB34927	ERX4142820	SAMEA6526536	P.abies	Romania	NA	46.6	25.1	NA	Ingvarsson	NA	RangeWide
+P8109-101	P8109-101	P8109-101	Pab007	PRJEB34927	ERX4142822	SAMEA6526538	P.abies	Norway	NA	65.6	14	NA	Ingvarsson	NA	RangeWide
+P8109-102	P8109-102	P8109-102	Pab008	PRJEB34927	ERX4142823	SAMEA6526539	P.abies	Finland	NA	66.5	25.7	NA	Ingvarsson	NA	RangeWide
+P8109-103	P8109-103	P8109-103	Pab009	PRJEB34927	ERX4142824	SAMEA6526540	P.abies	Finland	NA	67.5	24.9	NA	Ingvarsson	NA	RangeWide
+P8109-104	P8109-104	P8109-104	Pab010	PRJEB34927	ERX4142825	SAMEA6526541	P.abies	Finland	NA	64.9	28.9	NA	Ingvarsson	NA	RangeWide
+P8109-105	P8109-105	P8109-105	Pab011	PRJEB34927	ERX4142826	SAMEA6526542	P.abies	Norway	NA	59.7	11.4	NA	Ingvarsson	NA	RangeWide
+P8109-106	P8109-106	P8109-106	Pab012	PRJEB34927	ERX4142827	SAMEA6526543	P.abies	Norway	NA	63.7	11.3	NA	Ingvarsson	NA	RangeWide
+P8109-107	P8109-107	P8109-107	Pab013	PRJEB34927	ERX4142828	SAMEA6526544	P.abies	Norway	NA	65.6	13.4	NA	Ingvarsson	NA	RangeWide
+P8109-108	P8109-108	P8109-108	Pab014	PRJEB34927	ERX4142829	SAMEA6526545	P.abies	Norway	NA	63.1	11.7	NA	Ingvarsson	NA	RangeWide
+P8109-109	P8109-109	P8109-109	Pab015	PRJEB34927	ERX4142830	SAMEA6526546	P.abies	Finland	NA	60.7	24.4	NA	Ingvarsson	NA	RangeWide
+P9904-101	P9904-101	P9904-101	Pab016	PRJEB34927	ERX4142831	SAMEA6526547	P.abies	Sweden	NA	65.1	15.4	NA	Ingvarsson	NA	RangeWide
+P9904-102	P9904-102	P9904-102	Pab017	PRJEB34927	ERX4142832	SAMEA6526548	P.abies	Sweden	NA	65.1	15.4	NA	Ingvarsson	NA	RangeWide
+P9904-103	P9904-103	P9904-103	Pab018	PRJEB34927	ERX4142833	SAMEA6526549	P.abies	Sweden	NA	65.1	15.4	NA	Ingvarsson	NA	RangeWide
+P9904-104	P9904-104	P9904-104	Pab019	PRJEB34927	ERX4142834	SAMEA6526550	P.abies	Sweden	NA	65.1	15.4	NA	Ingvarsson	NA	RangeWide
+P9904-105	P9904-105	P9904-105	Pab020	PRJEB34927	ERX4142835	SAMEA6526551	P.abies	Sweden	NA	65.1	15.4	NA	Ingvarsson	NA	RangeWide
+P9904-106	P9904-106	P9904-106	Pab021	PRJEB34927	ERX4142836	SAMEA6526552	P.abies	Sweden	NA	65.1	15.4	NA	Ingvarsson	NA	RangeWide
+P9904-107	P9904-107	P9904-107	Pab022	PRJEB34927	ERX4142837	SAMEA6526553	P.abies	Sweden	NA	65.1	15.4	NA	Ingvarsson	NA	RangeWide
+P9904-108	P9904-108	P9904-108	Pab023	PRJEB34927	ERX4142838	SAMEA6526554	P.abies	Sweden	NA	65.1	15.4	NA	Ingvarsson	NA	RangeWide
+P9904-109	P9904-109	P9904-109	Pab024	PRJEB34927	ERX4142839	SAMEA6526555	P.abies	Sweden	NA	65.1	15.4	NA	Ingvarsson	NA	RangeWide
+P9904-110	P9904-110	P9904-110	Pab025	PRJEB34927	ERX4142840	SAMEA6526556	P.abies	Sweden	NA	65.1	15.4	NA	Ingvarsson	NA	RangeWide
+P9904-111	P9904-111	P9904-111	Pab026	PRJEB34927	ERX4142841	SAMEA6526557	P.abies	Sweden	NA	63.7	19.5	NA	Ingvarsson	NA	RangeWide
+P9904-112	P9904-112	P9904-112	Pab027	PRJEB34927	ERX4142842	SAMEA6526558	P.abies	Sweden	NA	63.7	19.5	NA	Ingvarsson	NA	RangeWide
+P9904-113	P9904-113	P9904-113	Pab028	PRJEB34927	ERX4142843	SAMEA6526559	P.abies	Sweden	NA	63.7	19.5	NA	Ingvarsson	NA	RangeWide
+P9904-114	P9904-114	P9904-114	Pab029	PRJEB34927	ERX4142844	SAMEA6526560	P.abies	Sweden	NA	63.7	19.5	NA	Ingvarsson	NA	RangeWide
+P9904-115	P9904-115	P9904-115	Pab030	PRJEB34927	ERX4142845	SAMEA6526561	P.abies	Sweden	NA	63.7	19.5	NA	Ingvarsson	NA	RangeWide
+P9904-116	P9904-116	P9904-116	Pab031	PRJEB34927	ERX4142846	SAMEA6526562	P.abies	Sweden	NA	63.7	19.5	NA	Ingvarsson	NA	RangeWide
+P9904-117	P9904-117	P9904-117	Pab032	PRJEB34927	ERX4142847	SAMEA6526563	P.abies	Sweden	NA	63.7	19.5	NA	Ingvarsson	NA	RangeWide
+P9904-118	P9904-118	P9904-118	Pab033	PRJEB34927	ERX4142848	SAMEA6526564	P.abies	Sweden	NA	63.7	19.5	NA	Ingvarsson	NA	RangeWide
+P9904-119	P9904-119	P9904-119	Pab034	PRJEB34927	ERX4142849	SAMEA6526565	P.abies	Sweden	NA	63.7	19.5	NA	Ingvarsson	NA	RangeWide
+P9904-120	P9904-120	P9904-120	Pab035	PRJEB34927	ERX4142850	SAMEA6526566	P.abies	Sweden	NA	63.7	19.5	NA	Ingvarsson	NA	RangeWide
+P24355_101	P.obovata_P24355	P.obovata_P24355	09049/1	NA	NA	SAMEA117959564	P.obovata	Russia	NA	51.96	101.87	NA	Wu	NA	Outgroup
+P24354-109	P24354-109	P24354-109	OB_564	NA	NA	NA	P.abies	Russia	NA	58	65.3	100	Wu	NA	RangeWide
+P24354-108	P24354-108	P24354-108	HUN_B3_59_2	NA	NA	NA	P.abies	Russia	NA	54.3	41	150	Wu	NA	RangeWide
+P24354-107	P24354-107	P24354-107	B3-0_2	NA	NA	NA	P.abies	Belarus	NA	53.8	30.3	175	Wu	NA	RangeWide
+P24354-106	P24354-106	P24354-106	NR_32	NA	NA	NA	P.abies	Russia	NA	60.7	50.28	NA	Wu	NA	RangeWide
+P24354-105	P24354-105	P24354-105	NR_25	NA	NA	NA	P.abies	Russia	NA	62.37	52.42	NA	Wu	NA	RangeWide
+P24354-104	P24354-104	P24354-104	NR_24	NA	NA	NA	P.abies	Russia	NA	62.62	57.47	NA	Wu	NA	RangeWide
+P24354-103	P24354-103	P24354-103	NR_30	NA	NA	NA	P.abies	Russia	NA	61.27	53.63	NA	Wu	NA	RangeWide
+P24354-102	P24354-102	P24354-102	NR_19	NA	NA	NA	P.abies	Russia	NA	63.7	48.53	NA	Wu	NA	RangeWide
+P24354-101	P24354-101	P24354-101	NR_18	NA	NA	NA	P.abies	Russia	NA	64	54.58	NA	Wu	NA	RangeWide
+P22451-251	P22451-251	P22451-251	H_1078	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.58	18.12	NA	Wu	NA	BreedingPopulation
+P22451-250	P22451-250	P22451-250	H_804	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.3	17.4	NA	Wu	NA	BreedingPopulation
+P22451-249	P22451-249	P22451-249	H_728	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.2	17.58	NA	Wu	NA	BreedingPopulation
+P22451-248	P22451-248	P22451-248	H_674	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.28	15.98	NA	Wu	NA	BreedingPopulation
+P22451-247	P22451-247	P22451-247	H_311	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.33	20.33	NA	Wu	NA	BreedingPopulation
+P22451-246	P22451-246	P22451-246	H_265	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.95	16.28	NA	Wu	NA	BreedingPopulation
+P22451-245	P22451-245	P22451-245	S-H_1397	NA	NA	NA	P.abies	Finland	Northern breeding population	67.2300034	24.450001	270	Wu	NA	BreedingPopulation
+P22451-244	P22451-244	P22451-244	S-H_1396	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.22	20.12	NA	Wu	NA	BreedingPopulation
+P22451-243	P22451-243	P22451-243	S-H_1395	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.53	17.5	NA	Wu	NA	BreedingPopulation
+P22451-242	P22451-242	P22451-242	S-H_1394	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.8	16.45	NA	Wu	NA	BreedingPopulation
+P22451-241	P22451-241	P22451-241	S-H_1393	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.932251	20.71966	NA	Wu	NA	BreedingPopulation
+P22451-240	P22451-240	P22451-240	S-H_1392	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.28	17.4	NA	Wu	NA	BreedingPopulation
+P22451-239	P22451-239	P22451-239	S-H_1391	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.63	14.43	NA	Wu	NA	BreedingPopulation
+P22451-238	P22451-238	P22451-238	S-H_1390	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.95	16.38	NA	Wu	NA	BreedingPopulation
+P22451-237	P22451-237	P22451-237	S-H_1389	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.82	17.57	NA	Wu	NA	BreedingPopulation
+P22451-236	P22451-236	P22451-236	S-H_1388	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.3	17.4	NA	Wu	NA	BreedingPopulation
+P22451-235	P22451-235	P22451-235	S-H_1387	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.28	14.92	NA	Wu	NA	BreedingPopulation
+P22451-234	P22451-234	P22451-234	S-H_1386	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.67	16.6	NA	Wu	NA	BreedingPopulation
+P22451-233	P22451-233	P22451-233	S-H_1385	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.63	14.43	NA	Wu	NA	BreedingPopulation
+P22451-232	P22451-232	P22451-232	S-H_1384	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.83	14.3	NA	Wu	NA	BreedingPopulation
+P22451-231	P22451-231	P22451-231	S-H_1383	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.8	14.83	NA	Wu	NA	BreedingPopulation
+P22451-230	P22451-230	P22451-230	S-H_1382	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.3	17.4	NA	Wu	NA	BreedingPopulation
+P22451-229	P22451-229	P22451-229	S-H_1381	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.8	14.83	NA	Wu	NA	BreedingPopulation
+P22451-228	P22451-228	P22451-228	S-H_1380	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.82	17.57	NA	Wu	NA	BreedingPopulation
+P22451-227	P22451-227	P22451-227	S-H_1379	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.15	18.67	NA	Wu	NA	BreedingPopulation
+P22451-226	P22451-226	P22451-226	S-H_1378	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.15	18.67	NA	Wu	NA	BreedingPopulation
+P22451-225	P22451-225	P22451-225	S-H_1377	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	20.05	NA	Wu	NA	BreedingPopulation
+P22451-224	P22451-224	P22451-224	S-H_1376	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.83	17.77	NA	Wu	NA	BreedingPopulation
+P22451-223	P22451-223	P22451-223	S-H_1375	NA	NA	NA	P.abies	Sweden	Northern breeding population	64	17.65	NA	Wu	NA	BreedingPopulation
+P22451-222	P22451-222	P22451-222	S-H_1374	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.58	NA	Wu	NA	BreedingPopulation
+P22451-221	P22451-221	P22451-221	S-H_1373	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.73	21.63	NA	Wu	NA	BreedingPopulation
+P22451-220	P22451-220	P22451-220	S-H_1372	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.3700028	26.719999	NA	Wu	NA	BreedingPopulation
+P22451-219	P22451-219	P22451-219	S-H_1371	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.28	17.4	NA	Wu	NA	BreedingPopulation
+P22451-218	P22451-218	P22451-218	S-H_1370	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	16.92	NA	Wu	NA	BreedingPopulation
+P22451-217	P22451-217	P22451-217	S-H_1369	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.45	16.98	NA	Wu	NA	BreedingPopulation
+P22451-216	P22451-216	P22451-216	S-H_1368	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.45	18.17	NA	Wu	NA	BreedingPopulation
+P22451-215	P22451-215	P22451-215	S-H_1367	NA	NA	NA	P.abies	Sweden	Northern breeding population	65.22	16.47	NA	Wu	NA	BreedingPopulation
+P22451-214	P22451-214	P22451-214	S-H_1366	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.8	14.83	NA	Wu	NA	BreedingPopulation
+P22451-213	P22451-213	P22451-213	S-H_1364	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.63	15.08	NA	Wu	NA	BreedingPopulation
+P22451-212	P22451-212	P22451-212	S-H_1363	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P22451-211	P22451-211	P22451-211	S-H_1362	NA	NA	NA	P.abies	Sweden	Northern breeding population	64	16	NA	Wu	NA	BreedingPopulation
+P22451-210	P22451-210	P22451-210	S-H_1361	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.83	17.77	NA	Wu	NA	BreedingPopulation
+P22451-209	P22451-209	P22451-209	S-H_1360	NA	NA	NA	P.abies	Sweden	Northern breeding population	67.5778275	22.287889	NA	Wu	NA	BreedingPopulation
+P22451-208	P22451-208	P22451-208	S-H_1359	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	18.37	NA	Wu	NA	BreedingPopulation
+P22451-207	P22451-207	P22451-207	S-H_1358	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.25	17.65	NA	Wu	NA	BreedingPopulation
+P22451-206	P22451-206	P22451-206	S-H_1357	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.8	14.83	NA	Wu	NA	BreedingPopulation
+P22451-205	P22451-205	P22451-205	S-H_1356	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.82	17.78	NA	Wu	NA	BreedingPopulation
+P22451-204	P22451-204	P22451-204	S-H_1355	NA	NA	NA	P.abies	Sweden	Northern breeding population	59.8482513	15.09423	NA	Wu	NA	BreedingPopulation
+P22451-203	P22451-203	P22451-203	S-H_1354	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.1851616	13.631	NA	Wu	NA	BreedingPopulation
+P22451-202	P22451-202	P22451-202	S-H_1353	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.83	17.55	NA	Wu	NA	BreedingPopulation
+P22451-201	P22451-201	P22451-201	S-H_1352	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.28	17.4	NA	Wu	NA	BreedingPopulation
+P22451-196	P22451-196	P22451-196	S-H_1351	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.5	13.82	NA	Wu	NA	BreedingPopulation
+P22451-195	P22451-195	P22451-195	S-H_1339	NA	NA	NA	P.abies	Sweden	Northern breeding population	64	17.65	NA	Wu	NA	BreedingPopulation
+P22451-194	P22451-194	P22451-194	S-H_1327	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.67216	16.91162	NA	Wu	NA	BreedingPopulation
+P22451-193	P22451-193	P22451-193	S-H_1315	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.15	18.67	NA	Wu	NA	BreedingPopulation
+P22451-192	P22451-192	P22451-192	S-H_1303	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.8643799	19.799299	NA	Wu	NA	BreedingPopulation
+P22451-191	P22451-191	P22451-191	S-H_1291	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.27801	14.54091	NA	Wu	NA	BreedingPopulation
+P22451-190	P22451-190	P22451-190	S-H_1279	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.3580475	22.411091	NA	Wu	NA	BreedingPopulation
+P22451-189	P22451-189	P22451-189	S-H_1267	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.68	22.65	NA	Wu	NA	BreedingPopulation
+P22451-188	P22451-188	P22451-188	S-H_1350	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.82	17.57	NA	Wu	NA	BreedingPopulation
+P22451-187	P22451-187	P22451-187	S-H_1338	NA	NA	NA	P.abies	Sweden	Northern breeding population	NA	NA	NA	Wu	NA	BreedingPopulation
+P22451-186	P22451-186	P22451-186	S-H_1326	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.45	18.17	NA	Wu	NA	BreedingPopulation
+P22451-185	P22451-185	P22451-185	S-H_1314	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.73	21.63	NA	Wu	NA	BreedingPopulation
+P22451-184	P22451-184	P22451-184	S-H_1302	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.92	17.33	NA	Wu	NA	BreedingPopulation
+P22451-183	P22451-183	P22451-183	S-H_1290	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.63	15.08	NA	Wu	NA	BreedingPopulation
+P22451-182	P22451-182	P22451-182	S-H_1278	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.45	18.17	NA	Wu	NA	BreedingPopulation
+P22451-181	P22451-181	P22451-181	S-H_1266	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.8499985	29.58	NA	Wu	NA	BreedingPopulation
+P22451-180	P22451-180	P22451-180	S-H_1349	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.3	17.4	NA	Wu	NA	BreedingPopulation
+P22451-179	P22451-179	P22451-179	S-H_1337	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.21561	15.974	NA	Wu	NA	BreedingPopulation
+P22451-178	P22451-178	P22451-178	S-H_1325	NA	NA	NA	P.abies	Sweden	Northern breeding population	65.6950989	19.348551	NA	Wu	NA	BreedingPopulation
+P22451-177	P22451-177	P22451-177	S-H_1313	NA	NA	NA	P.abies	Sweden	Northern breeding population	65.3651428	18.57366	NA	Wu	NA	BreedingPopulation
+P22451-176	P22451-176	P22451-176	S-H_1301	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.63	14.43	NA	Wu	NA	BreedingPopulation
+P22451-175	P22451-175	P22451-175	S-H_1289	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.57	19.17	NA	Wu	NA	BreedingPopulation
+P22451-174	P22451-174	P22451-174	S-H_1277	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.5341187	20.800911	NA	Wu	NA	BreedingPopulation
+P22451-173	P22451-173	P22451-173	S-H_1265	NA	NA	NA	P.abies	Sweden	Northern breeding population	60.81068	14.67333	NA	Wu	NA	BreedingPopulation
+P22451-172	P22451-172	P22451-172	S-H_1348	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.83	17.55	NA	Wu	NA	BreedingPopulation
+P22451-171	P22451-171	P22451-171	S-H_1336	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.8454514	13.74458	NA	Wu	NA	BreedingPopulation
+P22451-170	P22451-170	P22451-170	S-H_1324	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.63	14.43	NA	Wu	NA	BreedingPopulation
+P22451-169	P22451-169	P22451-169	S-H_1312	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.77716	16.37725	NA	Wu	NA	BreedingPopulation
+P22451-168	P22451-168	P22451-168	S-H_1300	NA	NA	NA	P.abies	Sweden	Northern breeding population	58.57169	14.42854	NA	Wu	NA	BreedingPopulation
+P22451-167	P22451-167	P22451-167	S-H_1288	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.53	17.5	NA	Wu	NA	BreedingPopulation
+P22451-166	P22451-166	P22451-166	S-H_1276	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.4076691	20.419439	NA	Wu	NA	BreedingPopulation
+P22451-165	P22451-165	P22451-165	S-H_1264	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.2	17.15	NA	Wu	NA	BreedingPopulation
+P22451-164	P22451-164	P22451-164	S-H_1347	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.3	17.4	NA	Wu	NA	BreedingPopulation
+P22451-163	P22451-163	P22451-163	S-H_1335	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.22	20.12	NA	Wu	NA	BreedingPopulation
+P22451-162	P22451-162	P22451-162	S-H_1323	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.25	17.65	NA	Wu	NA	BreedingPopulation
+P22451-161	P22451-161	P22451-161	S-H_1311	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.2799988	23.719999	NA	Wu	NA	BreedingPopulation
+P22451-160	P22451-160	P22451-160	S-H_1299	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.88	15.28	NA	Wu	NA	BreedingPopulation
+P22451-159	P22451-159	P22451-159	S-H_1287	NA	NA	NA	P.abies	Sweden	Northern breeding population	59.86682	17.9232	NA	Wu	NA	BreedingPopulation
+P22451-158	P22451-158	P22451-158	S-H_1275	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.4333572	23.265459	NA	Wu	NA	BreedingPopulation
+P22451-157	P22451-157	P22451-157	S-H_1263	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.28	14.93	NA	Wu	NA	BreedingPopulation
+P22451-156	P22451-156	P22451-156	S-H_1346	NA	NA	NA	P.abies	Sweden	Northern breeding population	67.1819534	23.286091	NA	Wu	NA	BreedingPopulation
+P22451-155	P22451-155	P22451-155	S-H_1334	NA	NA	NA	P.abies	Sweden	Northern breeding population	65.864212	22.97456	NA	Wu	NA	BreedingPopulation
+P22451-154	P22451-154	P22451-154	S-H_1322	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.63	15.08	NA	Wu	NA	BreedingPopulation
+P22451-153	P22451-153	P22451-153	S-H_1310	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.82	17.78	NA	Wu	NA	BreedingPopulation
+P22451-152	P22451-152	P22451-152	S-H_1298	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	16.92	NA	Wu	NA	BreedingPopulation
+P22451-151	P22451-151	P22451-151	S-H_1286	NA	NA	NA	P.abies	Sweden	Northern breeding population	67.7200012	26.049999	NA	Wu	NA	BreedingPopulation
+P22451-150	P22451-150	P22451-150	S-H_1274	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.1738	NA	NA	Wu	NA	BreedingPopulation
+P22451-149	P22451-149	P22451-149	S-H_1262	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.15	18.67	NA	Wu	NA	BreedingPopulation
+P22451-148	P22451-148	P22451-148	S-H_1345	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	18.37	NA	Wu	NA	BreedingPopulation
+P22451-147	P22451-147	P22451-147	S-H_1333	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.5149002	14.21306	NA	Wu	NA	BreedingPopulation
+P22451-146	P22451-146	P22451-146	S-H_1321	NA	NA	NA	P.abies	Sweden	Northern breeding population	59.19394	12.96569	NA	Wu	NA	BreedingPopulation
+P22451-145	P22451-145	P22451-145	S-H_1309	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.68	22.65	NA	Wu	NA	BreedingPopulation
+P22451-144	P22451-144	P22451-144	S-H_1297	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.92	17.5	NA	Wu	NA	BreedingPopulation
+P22451-143	P22451-143	P22451-143	S-H_1285	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.62	16.48	NA	Wu	NA	BreedingPopulation
+P22451-142	P22451-142	P22451-142	S-H_1273	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.7245	NA	NA	Wu	NA	BreedingPopulation
+P22451-141	P22451-141	P22451-141	S-H_1261	NA	NA	NA	P.abies	Sweden	Northern breeding population	60.4508	NA	NA	Wu	NA	BreedingPopulation
+P22451-140	P22451-140	P22451-140	S-H_1344	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.25	17.65	NA	Wu	NA	BreedingPopulation
+P22451-139	P22451-139	P22451-139	S-H_1332	NA	NA	NA	P.abies	Sweden	Northern breeding population	61	13.3	NA	Wu	NA	BreedingPopulation
+P22451-138	P22451-138	P22451-138	S-H_1320	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.75	16.6	NA	Wu	NA	BreedingPopulation
+P22451-137	P22451-137	P22451-137	S-H_1308	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.82	17.62	NA	Wu	NA	BreedingPopulation
+P22451-136	P22451-136	P22451-136	S-H_1296	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.83	17.77	NA	Wu	NA	BreedingPopulation
+P22451-135	P22451-135	P22451-135	S-H_1284	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.83	17.77	NA	Wu	NA	BreedingPopulation
+P22451-134	P22451-134	P22451-134	S-H_1272	NA	NA	NA	P.abies	Sweden	Northern breeding population	59.22638	16.12479	NA	Wu	NA	BreedingPopulation
+P22451-133	P22451-133	P22451-133	S-H_1260	NA	NA	NA	P.abies	Sweden	Northern breeding population	64	17.65	NA	Wu	NA	BreedingPopulation
+P22451-132	P22451-132	P22451-132	S-H_1343	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.15	18.67	NA	Wu	NA	BreedingPopulation
+P22451-131	P22451-131	P22451-131	S-H_1331	NA	NA	NA	P.abies	Sweden	Northern breeding population	65.1447067	18.039909	NA	Wu	NA	BreedingPopulation
+P22451-130	P22451-130	P22451-130	S-H_1319	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.2	17.15	NA	Wu	NA	BreedingPopulation
+P22451-129	P22451-129	P22451-129	S-H_1307	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.82	17.78	NA	Wu	NA	BreedingPopulation
+P22451-128	P22451-128	P22451-128	S-H_1295	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.92	17.83	NA	Wu	NA	BreedingPopulation
+P22451-127	P22451-127	P22451-127	S-H_1283	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.92	17.33	NA	Wu	NA	BreedingPopulation
+P22451-126	P22451-126	P22451-126	S-H_1271	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.82	17.78	NA	Wu	NA	BreedingPopulation
+P22451-125	P22451-125	P22451-125	S-H_1259	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.4683685	18.64805	NA	Wu	NA	BreedingPopulation
+P22451-124	P22451-124	P22451-124	S-H_1342	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.95	16.38	NA	Wu	NA	BreedingPopulation
+P22451-123	P22451-123	P22451-123	S-H_1330	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.82	17.78	NA	Wu	NA	BreedingPopulation
+P22451-122	P22451-122	P22451-122	S-H_1318	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.3	17.4	NA	Wu	NA	BreedingPopulation
+P22451-121	P22451-121	P22451-121	S-H_1306	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.2	17.15	NA	Wu	NA	BreedingPopulation
+P22451-120	P22451-120	P22451-120	S-H_1294	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.82	17.78	NA	Wu	NA	BreedingPopulation
+P22451-119	P22451-119	P22451-119	S-H_1282	NA	NA	NA	P.abies	Sweden	Northern breeding population	58.46789	16.68423	NA	Wu	NA	BreedingPopulation
+P22451-118	P22451-118	P22451-118	S-H_1270	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.68	22.65	NA	Wu	NA	BreedingPopulation
+P22451-117	P22451-117	P22451-117	S-H_1258	NA	NA	NA	P.abies	Sweden	Northern breeding population	65.149	NA	NA	Wu	NA	BreedingPopulation
+P22451-116	P22451-116	P22451-116	S-H_1341	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.03	15.58	NA	Wu	NA	BreedingPopulation
+P22451-115	P22451-115	P22451-115	S-H_1329	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	16.92	NA	Wu	NA	BreedingPopulation
+P22451-114	P22451-114	P22451-114	S-H_1317	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.47	15.5	NA	Wu	NA	BreedingPopulation
+P22451-113	P22451-113	P22451-113	S-H_1305	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	18.37	NA	Wu	NA	BreedingPopulation
+P22451-112	P22451-112	P22451-112	S-H_1293	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.83	17.77	NA	Wu	NA	BreedingPopulation
+P22451-111	P22451-111	P22451-111	S-H_1281	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.9437218	16.823759	NA	Wu	NA	BreedingPopulation
+P22451-110	P22451-110	P22451-110	S-H_1269	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.084	NA	NA	Wu	NA	BreedingPopulation
+P22451-109	P22451-109	P22451-109	S-H_1257	NA	NA	NA	P.abies	Sweden	Northern breeding population	60.6731415	12.96528	NA	Wu	NA	BreedingPopulation
+P22451-108	P22451-108	P22451-108	S-H_1340	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	18.37	NA	Wu	NA	BreedingPopulation
+P22451-107	P22451-107	P22451-107	S-H_1328	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.48	17.67	NA	Wu	NA	BreedingPopulation
+P22451-106	P22451-106	P22451-106	S-H_1316	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.45	18.17	NA	Wu	NA	BreedingPopulation
+P22451-105	P22451-105	P22451-105	S-H_1304	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	16.92	NA	Wu	NA	BreedingPopulation
+P22451-104	P22451-104	P22451-104	S-H_1292	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.43	16.85	NA	Wu	NA	BreedingPopulation
+P22451-103	P22451-103	P22451-103	S-H_1280	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.0916901	16.21657	NA	Wu	NA	BreedingPopulation
+P22451-102	P22451-102	P22451-102	S-H_1268	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.22	20.12	NA	Wu	NA	BreedingPopulation
+P22451-101	P22451-101	P22451-101	S-H_1247	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.47	15.5	NA	Wu	NA	BreedingPopulation
+P21002-142	P21002-142	P21002-142	ACR_16H311	NA	NA	NA	P.abies	Sweden	Mutant	NA	NA	NA	Wu	Acrocona	RangeWide
+P21002-141	P21002-141	P21002-141	BOR	NA	NA	NA	P.abies	Sweden	Mutant	NA	NA	NA	Wu	Bordsgran	RangeWide
+P21002-140	P21002-140	P21002-140	PEL	NA	NA	NA	P.abies	Sweden	Mutant	NA	NA	NA	Wu	Pellargran	RangeWide
+P21002-139	P21002-139	P21002-139	TAR	NA	NA	NA	P.abies	Sweden	Mutant	NA	NA	NA	Wu	Tårgran	RangeWide
+P21002-138	P21002-138	P21002-138	ORM	NA	NA	NA	P.abies	Sweden	Mutant	NA	NA	NA	Wu	Ormgran	RangeWide
+P21002-137	P21002-137	P21002-137	SMU	NA	NA	NA	P.abies	Sweden	Mutant	NA	NA	NA	Wu	Smultrongran	RangeWide
+P21002-136	P21002-136	P21002-136	GUL	NA	NA	NA	P.abies	Sweden	Mutant	NA	NA	NA	Wu	Guldgran	RangeWide
+P21002-135	P21002-135	P21002-135	SOC	NA	NA	NA	P.abies	Sweden	Mutant	NA	NA	NA	Wu	Sockertoppsgran	RangeWide
+P21002-134	P21002-134	P21002-134	KRY	NA	NA	NA	P.abies	Sweden	Mutant	NA	NA	NA	Wu	Krypgran	RangeWide
+P21002-133	P21002-133	P21002-133	KAM	NA	NA	NA	P.abies	Sweden	Mutant	NA	NA	NA	Wu	Kamgranstyp	RangeWide
+P21002-132	P21002-132	P21002-132	L33040	NA	NA	NA	P.abies	Belgium	NA	50.4	6.3	542	Wu	NA	RangeWide
+P21002-131	P21002-131	P21002-131	L33039	NA	NA	NA	P.abies	Czech Republic	NA	49.7	15.8	600	Wu	NA	RangeWide
+P21002-130	P21002-130	P21002-130	L33035	NA	NA	NA	P.abies	Finland	NA	62.1	28.2	100	Wu	NA	RangeWide
+P21002-129	P21002-129	P21002-129	L33030	NA	NA	NA	P.abies	Norway	NA	60	10.7	160	Wu	NA	RangeWide
+P21002-128	P21002-128	P21002-128	L33029	NA	NA	NA	P.abies	Greece	NA	41.5	24.3	1630	Wu	NA	RangeWide
+P21002-127	P21002-127	P21002-127	L33028	NA	NA	NA	P.abies	Switzerland	NA	46.5	8.7	1400	Wu	NA	RangeWide
+P21002-126	P21002-126	P21002-126	L33027	NA	NA	NA	P.abies	Austria	NA	47.5	14.6	1200	Wu	NA	RangeWide
+P21002-125	P21002-125	P21002-125	L955	NA	NA	NA	P.abies	Germany	NA	47.6	10.8	1400	Wu	NA	RangeWide
+P21002-124	P21002-124	P21002-124	L938	NA	NA	NA	P.abies	Germany	NA	47.6	11.8	1400	Wu	NA	RangeWide
+P21002-123	P21002-123	P21002-123	L923	NA	NA	NA	P.abies	Czech Republic	NA	48.6	14.7	800	Wu	NA	RangeWide
+P21002-122	P21002-122	P21002-122	L904	NA	NA	NA	P.abies	Germany	NA	48	11.1	625	Wu	NA	RangeWide
+P21002-121	P21002-121	P21002-121	L894	NA	NA	NA	P.abies	Poland	NA	49.6	19.6	950	Wu	NA	RangeWide
+P21002-120	P21002-120	P21002-120	L887	NA	NA	NA	P.abies	Czech Republic	NA	49.4	13	600	Wu	NA	RangeWide
+P21002-119	P21002-119	P21002-119	L883	NA	NA	NA	P.abies	Poland	NA	49.9	19.2	600	Wu	NA	RangeWide
+P21002-118	P21002-118	P21002-118	L856	NA	NA	NA	P.abies	Austria	NA	47.3	11.1	1150	Wu	NA	RangeWide
+P21002-117	P21002-117	P21002-117	L830	NA	NA	NA	P.abies	Germany	NA	50.5	11.1	886	Wu	NA	RangeWide
+P21002-116	P21002-116	P21002-116	L825	NA	NA	NA	P.abies	Germany	NA	47.6	13	1100	Wu	NA	RangeWide
+P21002-115	P21002-115	P21002-115	L823	NA	NA	NA	P.abies	Germany	NA	49.2	12.7	475	Wu	NA	RangeWide
+P21002-114	P21002-114	P21002-114	L786	NA	NA	NA	P.abies	Austria	NA	47.1	14	1200	Wu	NA	RangeWide
+P21002-113	P21002-113	P21002-113	L777	NA	NA	NA	P.abies	Czech Republic	NA	49.7	16.3	660	Wu	NA	RangeWide
+P21002-112	P21002-112	P21002-112	L776	NA	NA	NA	P.abies	Poland	NA	49.4	20.8	700	Wu	NA	RangeWide
+P21002-111	P21002-111	P21002-111	L727	NA	NA	NA	P.abies	Germany	NA	48.4	9.5	800	Wu	NA	RangeWide
+P21002-110	P21002-110	P21002-110	L726	NA	NA	NA	P.abies	Southern Sweden	NA	59.1	12.5	165	Wu	NA	RangeWide
+P21002-109	P21002-109	P21002-109	L725	NA	NA	NA	P.abies	Mid Sweden	NA	59.8	15.6	140	Wu	NA	RangeWide
+P21002-108	P21002-108	P21002-108	L721	NA	NA	NA	P.abies	Mid Sweden	NA	63	16.7	100	Wu	NA	RangeWide
+P21002-107	P21002-107	P21002-107	L716	NA	NA	NA	P.abies	Czech Republic	NA	49.8	12.8	530	Wu	NA	RangeWide
+P21002-106	P21002-106	P21002-106	L713	NA	NA	NA	P.abies	Lithuania	NA	56.2	23	40	Wu	NA	RangeWide
+P21002-105	P21002-105	P21002-105	L83	NA	NA	NA	P.abies	Germany	NA	48	11.4	800	Wu	NA	RangeWide
+P21002-104	P21002-104	P21002-104	L58	NA	NA	NA	P.abies	Czech Republic	NA	49.3	15.8	550	Wu	NA	RangeWide
+P21002-103	P21002-103	P21002-103	L39	NA	NA	NA	P.abies	Finland	NA	61.3	25.3	110	Wu	NA	RangeWide
+P21002-102	P21002-102	P21002-102	L20	NA	NA	NA	P.abies	Germany	NA	47.7	11.8	1100	Wu	NA	RangeWide
+P21002-101	P21002-101	P21002-101	L4	NA	NA	NA	P.abies	Germany	NA	49.1	12	500	Wu	NA	RangeWide
+P17553-596	P17553-596	P17553-596	L33062	NA	NA	NA	P.abies	Austria	NA	47.2	14.4	1450	Wu	NA	RangeWide
+P17553-595	P17553-595	P17553-595	L33061	NA	NA	NA	P.abies	Austria	NA	47.1	15.1	800	Wu	NA	RangeWide
+P17553-594	P17553-594	P17553-594	L33060	NA	NA	NA	P.abies	France	NA	45.1	4	1100	Wu	NA	RangeWide
+P17553-593	P17553-593	P17553-593	L33059	NA	NA	NA	P.abies	Mid Sweden	NA	64	19.1	249	Wu	NA	RangeWide
+P17553-592	P17553-592	P17553-592	L33058	NA	NA	NA	P.abies	Lithuania	NA	55.5	25.2	92	Wu	NA	RangeWide
+P17553-591	P17553-591	P17553-591	L33057	NA	NA	NA	P.abies	Slovakia	NA	49.2	20.2	1190	Wu	NA	RangeWide
+P17553-590	P17553-590	P17553-590	L33056	NA	NA	NA	P.abies	Austria	NA	47	12.5	1000	Wu	NA	RangeWide
+P17553-589	P17553-589	P17553-589	L33055	NA	NA	NA	P.abies	Germany	NA	49.1	13.2	1200	Wu	NA	RangeWide
+P17553-588	P17553-588	P17553-588	L33054	NA	NA	NA	P.abies	Austria	NA	47.3	13.6	1050	Wu	NA	RangeWide
+P17553-587	P17553-587	P17553-587	L33053	NA	NA	NA	P.abies	Norway	NA	60.3	10.8	400	Wu	NA	RangeWide
+P17553-586	P17553-586	P17553-586	L33052	NA	NA	NA	P.abies	Germany	NA	47.5	11.1	800	Wu	NA	RangeWide
+P17553-585	P17553-585	P17553-585	L33051	NA	NA	NA	P.abies	Poland	NA	53.3	15.8	175	Wu	NA	RangeWide
+P17553-584	P17553-584	P17553-584	L33050	NA	NA	NA	P.abies	Norway	NA	60	10.7	160	Wu	NA	RangeWide
+P17553-583	P17553-583	P17553-583	L2477	NA	NA	NA	P.abies	Austria	NA	47.5	16	1100	Wu	NA	RangeWide
+P17553-582	P17553-582	P17553-582	L2369	NA	NA	NA	P.abies	Germany	NA	49.3	9.2	150	Wu	NA	RangeWide
+P17553-581	P17553-581	P17553-581	L2326	NA	NA	NA	P.abies	Germany	NA	48.6	8.4	500	Wu	NA	RangeWide
+P17553-580	P17553-580	P17553-580	L2325	NA	NA	NA	P.abies	Czech Republic	NA	49.7	17.1	360	Wu	NA	RangeWide
+P17553-579	P17553-579	P17553-579	L2324	NA	NA	NA	P.abies	Mid Sweden	NA	57.8	13.8	240	Wu	NA	RangeWide
+P17553-578	P17553-578	P17553-578	L2281	NA	NA	NA	P.abies	Latvia	NA	56.1	27.5	150	Wu	NA	RangeWide
+P17553-577	P17553-577	P17553-577	L2240	NA	NA	NA	P.abies	Latvia	NA	56.7	22.7	115	Wu	NA	RangeWide
+P17553-576	P17553-576	P17553-576	L2234	NA	NA	NA	P.abies	Germany	NA	51.8	10.2	200	Wu	NA	RangeWide
+P17553-575	P17553-575	P17553-575	L2212	NA	NA	NA	P.abies	France	NA	45.1	4	900	Wu	NA	RangeWide
+P17553-574	P17553-574	P17553-574	L2168	NA	NA	NA	P.abies	Austria	NA	47.5	14.1	700	Wu	NA	RangeWide
+P17553-573	P17553-573	P17553-573	L2150	NA	NA	NA	P.abies	Slovakia	NA	48.9	20.2	1500	Wu	NA	RangeWide
+P17553-572	P17553-572	P17553-572	L2109	NA	NA	NA	P.abies	Germany	NA	48.1	8.8	800	Wu	NA	RangeWide
+P17553-571	P17553-571	P17553-571	L2104	NA	NA	NA	P.abies	Slovakia	NA	49.1	20.3	900	Wu	NA	RangeWide
+P17553-570	P17553-570	P17553-570	L2039	NA	NA	NA	P.abies	Czech Republic	NA	49.6	17.7	430	Wu	NA	RangeWide
+P17553-569	P17553-569	P17553-569	L2037	NA	NA	NA	P.abies	Austria	NA	46.9	16.1	310	Wu	NA	RangeWide
+P17553-568	P17553-568	P17553-568	L1979	NA	NA	NA	P.abies	Southern Sweden	NA	59.2	17.9	50	Wu	NA	RangeWide
+P17553-567	P17553-567	P17553-567	L1934	NA	NA	NA	P.abies	Germany	NA	49.8	12	575	Wu	NA	RangeWide
+P17553-566	P17553-566	P17553-566	L1810	NA	NA	NA	P.abies	Mid Sweden	NA	63.9	16.3	350	Wu	NA	RangeWide
+P17553-565	P17553-565	P17553-565	L1809	NA	NA	NA	P.abies	Czech Republic	NA	49.5	18.4	700	Wu	NA	RangeWide
+P17553-564	P17553-564	P17553-564	L1775	NA	NA	NA	P.abies	Czech Republic	NA	48.9	14.9	450	Wu	NA	RangeWide
+P17553-563	P17553-563	P17553-563	L1772	NA	NA	NA	P.abies	Germany	NA	47.8	12.5	800	Wu	NA	RangeWide
+P17553-562	P17553-562	P17553-562	L1767	NA	NA	NA	P.abies	Germany	NA	48.5	12	500	Wu	NA	RangeWide
+P17553-561	P17553-561	P17553-561	L1694	NA	NA	NA	P.abies	Estonia	NA	58.1	25.3	90	Wu	NA	RangeWide
+P17553-560	P17553-560	P17553-560	L1591	NA	NA	NA	P.abies	Germany	NA	51.8	10.2	300	Wu	NA	RangeWide
+P17553-559	P17553-559	P17553-559	L1533	NA	NA	NA	P.abies	Germany	NA	48.8	10.1	500	Wu	NA	RangeWide
+P17553-558	P17553-558	P17553-558	L1435	NA	NA	NA	P.abies	Germany	NA	47.8	10.3	800	Wu	NA	RangeWide
+P17553-557	P17553-557	P17553-557	L529	NA	NA	NA	P.abies	Austria	NA	48	15.5	550	Wu	NA	RangeWide
+P17553-556	P17553-556	P17553-556	L385	NA	NA	NA	P.abies	Czech Republic	NA	49.1	16.3	380	Wu	NA	RangeWide
+P17553-555	P17553-555	P17553-555	L361	NA	NA	NA	P.abies	Germany	NA	51.3	8.7	550	Wu	NA	RangeWide
+P17553-554	P17553-554	P17553-554	L335	NA	NA	NA	P.abies	Germany	NA	48.5	8.6	500	Wu	NA	RangeWide
+P17553-553	P17553-553	P17553-553	L254	NA	NA	NA	P.abies	Slovakia	NA	49.4	19.1	750	Wu	NA	RangeWide
+P17553-552	P17553-552	P17553-552	L226	NA	NA	NA	P.abies	Austria	NA	47.5	15.4	1100	Wu	NA	RangeWide
+P17553-551	P17553-551	P17553-551	L207	NA	NA	NA	P.abies	Germany	NA	50.9	7.7	300	Wu	NA	RangeWide
+P17553-550	P17553-550	P17553-550	L200	NA	NA	NA	P.abies	Germany	NA	51.8	10.2	300	Wu	NA	RangeWide
+P17553-549	P17553-549	P17553-549	L197	NA	NA	NA	P.abies	Czech Republic	NA	49.5	15.2	560	Wu	NA	RangeWide
+P17553-548	P17553-548	P17553-548	L189	NA	NA	NA	P.abies	Germany	NA	47.9	8.5	800	Wu	NA	RangeWide
+P17553-547	P17553-547	P17553-547	L156	NA	NA	NA	P.abies	France	NA	46	6.6	1300	Wu	NA	RangeWide
+P17553-546	P17553-546	P17553-546	L140	NA	NA	NA	P.abies	Czech Republic	NA	50.1	12.5	660	Wu	NA	RangeWide
+P17553-545	P17553-545	P17553-545	L138	NA	NA	NA	P.abies	Mid Sweden	NA	59.4	13.5	25	Wu	NA	RangeWide
+P17553-544	P17553-544	P17553-544	L123	NA	NA	NA	P.abies	Poland	NA	54.3	22.8	200	Wu	NA	RangeWide
+P17553-543	P17553-543	P17553-543	L118	NA	NA	NA	P.abies	Poland	NA	50.3	16.6	700	Wu	NA	RangeWide
+P17553-542	P17553-542	P17553-542	L113	NA	NA	NA	P.abies	Southern Sweden	NA	59.6	15.5	110	Wu	NA	RangeWide
+P17553-541	P17553-541	P17553-541	L2752	NA	NA	NA	P.abies	Germany	NA	47.7	10.2	1000	Wu	NA	RangeWide
+P17553-540	P17553-540	P17553-540	L107	NA	NA	NA	P.abies	Germany	NA	49.1	13.3	635	Wu	NA	RangeWide
+P17553-539	P17553-539	P17553-539	L102	NA	NA	NA	P.abies	Austria	NA	47.4	11.2	1150	Wu	NA	RangeWide
+P17553-538	P17553-538	P17553-538	L101	NA	NA	NA	P.abies	Germany	NA	47.8	12.5	1100	Wu	NA	RangeWide
+P17553-537	P17553-537	P17553-537	L100	NA	NA	NA	P.abies	Poland	NA	53.7	16.8	100	Wu	NA	RangeWide
+P17553-536	P17553-536	P17553-536	L99	NA	NA	NA	P.abies	Germany	NA	47.8	11	650	Wu	NA	RangeWide
+P17553-535	P17553-535	P17553-535	L95	NA	NA	NA	P.abies	Poland	NA	54.2	16	35	Wu	NA	RangeWide
+P17553-534	P17553-534	P17553-534	L94	NA	NA	NA	P.abies	Germany	NA	48.1	12	500	Wu	NA	RangeWide
+P17553-533	P17553-533	P17553-533	L89	NA	NA	NA	P.abies	Austria	NA	47.2	15.1	1100	Wu	NA	RangeWide
+P17553-532	P17553-532	P17553-532	L88	NA	NA	NA	P.abies	Germany	NA	47.9	9.6	850	Wu	NA	RangeWide
+P17553-531	P17553-531	P17553-531	L85	NA	NA	NA	P.abies	Germany	NA	48.8	13	1000	Wu	NA	RangeWide
+P17553-530	P17553-530	P17553-530	L84	NA	NA	NA	P.abies	Hungary	NA	48.3	21.4	405	Wu	NA	RangeWide
+P17553-529	P17553-529	P17553-529	L82	NA	NA	NA	P.abies	Slovakia	NA	48.8	20.8	700	Wu	NA	RangeWide
+P17553-528	P17553-528	P17553-528	L81	NA	NA	NA	P.abies	Austria	NA	47.3	11.2	1100	Wu	NA	RangeWide
+P17553-527	P17553-527	P17553-527	L79	NA	NA	NA	P.abies	Romania	NA	47.6	25.6	855	Wu	NA	RangeWide
+P17553-526	P17553-526	P17553-526	L76	NA	NA	NA	P.abies	Slovakia	NA	48.9	20.7	900	Wu	NA	RangeWide
+P17553-525	P17553-525	P17553-525	L75	NA	NA	NA	P.abies	Mid Sweden	NA	63.2	16.8	140	Wu	NA	RangeWide
+P17553-524	P17553-524	P17553-524	L74	NA	NA	NA	P.abies	Germany	NA	48.5	12	500	Wu	NA	RangeWide
+P17553-523	P17553-523	P17553-523	L61	NA	NA	NA	P.abies	Slovakia	NA	49.3	20.5	900	Wu	NA	RangeWide
+P17553-522	P17553-522	P17553-522	L59	NA	NA	NA	P.abies	Germany	NA	50.8	10.8	525	Wu	NA	RangeWide
+P17553-521	P17553-521	P17553-521	L54	NA	NA	NA	P.abies	Germany	NA	48.2	9.2	800	Wu	NA	RangeWide
+P17553-520	P17553-520	P17553-520	L41	NA	NA	NA	P.abies	Austria	NA	47.5	14.9	1100	Wu	NA	RangeWide
+P17553-519	P17553-519	P17553-519	L36	NA	NA	NA	P.abies	Latvia	NA	56.1	27.5	150	Wu	NA	RangeWide
+P17553-518	P17553-518	P17553-518	L29	NA	NA	NA	P.abies	Romania	NA	47.7	25.6	825	Wu	NA	RangeWide
+P17553-517	P17553-517	P17553-517	L25	NA	NA	NA	P.abies	Germany	NA	48.1	11.9	580	Wu	NA	RangeWide
+P17553-516	P17553-516	P17553-516	L24	NA	NA	NA	P.abies	Czech Republic	NA	50.2	17.6	750	Wu	NA	RangeWide
+P17553-515	P17553-515	P17553-515	L22	NA	NA	NA	P.abies	Russia	NA	54.8	36.3	100	Wu	NA	RangeWide
+P17553-514	P17553-514	P17553-514	L18	NA	NA	NA	P.abies	Germany	NA	47.6	11.5	1100	Wu	NA	RangeWide
+P17553-513	P17553-513	P17553-513	L16	NA	NA	NA	P.abies	Austria	NA	47.5	13.9	800	Wu	NA	RangeWide
+P17553-512	P17553-512	P17553-512	L15	NA	NA	NA	P.abies	Germany	NA	53.3	13.3	100	Wu	NA	RangeWide
+P17553-511	P17553-511	P17553-511	L14	NA	NA	NA	P.abies	Poland	NA	53.8	23	120	Wu	NA	RangeWide
+P17553-510	P17553-510	P17553-510	L12	NA	NA	NA	P.abies	Czech Republic	NA	49.7	18.5	670	Wu	NA	RangeWide
+P17553-509	P17553-509	P17553-509	L11	NA	NA	NA	P.abies	Germany	NA	48	8.9	800	Wu	NA	RangeWide
+P17553-508	P17553-508	P17553-508	L10	NA	NA	NA	P.abies	Czech Republic	NA	49.6	18.3	800	Wu	NA	RangeWide
+P17553-507	P17553-507	P17553-507	L9	NA	NA	NA	P.abies	Czech Republic	NA	49	14.8	430	Wu	NA	RangeWide
+P17553-506	P17553-506	P17553-506	L8	NA	NA	NA	P.abies	Romania	NA	46.7	25.7	1280	Wu	NA	RangeWide
+P17553-505	P17553-505	P17553-505	L7	NA	NA	NA	P.abies	Germany	NA	48.7	13.8	1200	Wu	NA	RangeWide
+P17553-504	P17553-504	P17553-504	L6	NA	NA	NA	P.abies	Latvia	NA	56.7	26.7	90	Wu	NA	RangeWide
+P17553-503	P17553-503	P17553-503	L3	NA	NA	NA	P.abies	Southern Sweden	NA	58.7	12.2	50	Wu	NA	RangeWide
+P17553-502	P17553-502	P17553-502	L2	NA	NA	NA	P.abies	Southern Sweden	NA	57.2	13.3	170	Wu	NA	RangeWide
+P17553-501	P17553-501	P17553-501	L1	NA	NA	NA	P.abies	Germany	NA	47.8	8.2	1200	Wu	NA	RangeWide
+P17553-496	P17553-496	P17553-496	L186	NA	NA	NA	P.abies	Czech Republic	NA	49.4	13.4	550	Wu	NA	RangeWide
+P17553-495	P17553-495	P17553-495	L210	NA	NA	NA	P.abies	Bulgaria	NA	42	23.5	1450	Wu	NA	RangeWide
+P17553-494	P17553-494	P17553-494	L217	NA	NA	NA	P.abies	Czech Republic	NA	49.3	14.5	450	Wu	NA	RangeWide
+P17553-493	P17553-493	P17553-493	L204	NA	NA	NA	P.abies	Austria	NA	47.5	15.2	1300	Wu	NA	RangeWide
+P17553-492	P17553-492	P17553-492	L33	NA	NA	NA	P.abies	Austria	NA	46.9	10.6	1175	Wu	NA	RangeWide
+P17553-488	P17553-488	P17553-488	L93	NA	NA	NA	P.abies	Germany	NA	49.1	13.2	1200	Wu	NA	RangeWide
+P17553-486	P17553-486	P17553-486	L60	NA	NA	NA	P.abies	Czech Republic	NA	49.6	18.3	600	Wu	NA	RangeWide
+P17553-485	P17553-485	P17553-485	L5	NA	NA	NA	P.abies	Germany	NA	48.1	8.8	800	Wu	NA	RangeWide
+P17553-481	P17553-481	P17553-481	L33038	NA	NA	NA	P.abies	Czech Republic	NA	50.4	12.9	980	Wu	NA	RangeWide
+P17553-480	P17553-480	P17553-480	L33037	NA	NA	NA	P.abies	Germany	NA	48.3	8.9	800	Wu	NA	RangeWide
+P17553-479	P17553-479	P17553-479	L33036	NA	NA	NA	P.abies	Austria	NA	47.4	14.9	765	Wu	NA	RangeWide
+P17553-477	P17553-477	P17553-477	L33034	NA	NA	NA	P.abies	Lithuania	NA	55.3	24.7	73	Wu	NA	RangeWide
+P17553-476	P17553-476	P17553-476	L33033	NA	NA	NA	P.abies	Slovakia	NA	49.3	20.2	1200	Wu	NA	RangeWide
+P17553-475	P17553-475	P17553-475	L33032	NA	NA	NA	P.abies	Norway	NA	60	10.7	160	Wu	NA	RangeWide
+P17553-474	P17553-474	P17553-474	L33031	NA	NA	NA	P.abies	Austria	NA	47.4	13.9	1250	Wu	NA	RangeWide
+P17553-469	P17553-469	P17553-469	L33026	NA	NA	NA	P.abies	Austria	NA	46.7	13.5	1200	Wu	NA	RangeWide
+P17553-468	P17553-468	P17553-468	L33025	NA	NA	NA	P.abies	Germany	NA	54.1	11.9	50	Wu	NA	RangeWide
+P17553-467	P17553-467	P17553-467	L843	NA	NA	NA	P.abies	Belarus	NA	53.8	30.3	175	Wu	NA	RangeWide
+P17553-466	P17553-466	P17553-466	L885	NA	NA	NA	P.abies	Czech Republic	NA	49.7	15.4	555	Wu	NA	RangeWide
+P17553-465	P17553-465	P17553-465	L967	NA	NA	NA	P.abies	Germany	NA	48.9	13.4	1200	Wu	NA	RangeWide
+P17553-464	P17553-464	P17553-464	L798	NA	NA	NA	P.abies	Southern Sweden	NA	59.5	14.1	127	Wu	NA	RangeWide
+P17553-460	P17553-460	P17553-460	L748	NA	NA	NA	P.abies	Poland	NA	52.7	23.8	130	Wu	NA	RangeWide
+P17553-459	P17553-459	P17553-459	L720	NA	NA	NA	P.abies	Germany	NA	47.5	11.3	1100	Wu	NA	RangeWide
+P17553-458	P17553-458	P17553-458	L714	NA	NA	NA	P.abies	Czech Republic	NA	49.1	15.3	570	Wu	NA	RangeWide
+P17553-456	P17553-456	P17553-456	L933	NA	NA	NA	P.abies	Southern Sweden	NA	56.8	14.2	170	Wu	NA	RangeWide
+P17553-454	P17553-454	P17553-454	L848	NA	NA	NA	P.abies	Poland	NA	53.4	15.8	125	Wu	NA	RangeWide
+P17553-452	P17553-452	P17553-452	L717	NA	NA	NA	P.abies	Austria	NA	47.7	16.4	425	Wu	NA	RangeWide
+P17553-451	P17553-451	P17553-451	L715	NA	NA	NA	P.abies	Germany	NA	48.2	12.1	500	Wu	NA	RangeWide
+P17553-448	P17553-448	P17553-448	L741	NA	NA	NA	P.abies	Poland	NA	53.3	22.9	150	Wu	NA	RangeWide
+P17553-446	P17553-446	P17553-446	L744	NA	NA	NA	P.abies	Romania	NA	46.3	23	1260	Wu	NA	RangeWide
+P17553-445	P17553-445	P17553-445	L872	NA	NA	NA	P.abies	Germany	NA	47.7	8	850	Wu	NA	RangeWide
+P17553-444	P17553-444	P17553-444	L743	NA	NA	NA	P.abies	Romania	NA	46.4	25.1	1260	Wu	NA	RangeWide
+P17553-443	P17553-443	P17553-443	L780	NA	NA	NA	P.abies	Germany	NA	49.1	13.3	655	Wu	NA	RangeWide
+P17553-442	P17553-442	P17553-442	L865	NA	NA	NA	P.abies	Southern Sweden	NA	55.8	13.8	180	Wu	NA	RangeWide
+P17553-441	P17553-441	P17553-441	L911	NA	NA	NA	P.abies	Germany	NA	49	11.8	400	Wu	NA	RangeWide
+P17553-440	P17553-440	P17553-440	L840	NA	NA	NA	P.abies	Slovakia	NA	49.1	20.5	800	Wu	NA	RangeWide
+P17553-439	P17553-439	P17553-439	L770	NA	NA	NA	P.abies	Germany	NA	49.1	13.2	650	Wu	NA	RangeWide
+P17553-438	P17553-438	P17553-438	L722	NA	NA	NA	P.abies	Russia	NA	60.5	29.7	75	Wu	NA	RangeWide
+P17553-437	P17553-437	P17553-437	L1168	NA	NA	NA	P.abies	Austria	NA	46.5	14.6	800	Wu	NA	RangeWide
+P17553-435	P17553-435	P17553-435	L862	NA	NA	NA	P.abies	France	NA	46.3	6.5	500	Wu	NA	RangeWide
+P17553-433	P17553-433	P17553-433	L826	NA	NA	NA	P.abies	Czech Republic	NA	50.6	15.6	800	Wu	NA	RangeWide
+P17553-432	P17553-432	P17553-432	L791	NA	NA	NA	P.abies	Czech Republic	NA	49.4	12.9	650	Wu	NA	RangeWide
+P17553-431	P17553-431	P17553-431	L825	NA	NA	NA	P.abies	Germany	NA	47.6	13	1100	Wu	NA	RangeWide
+P17553-430	P17553-430	P17553-430	L961	NA	NA	NA	P.abies	Romania	NA	46.3	23	1375	Wu	NA	RangeWide
+P17553-429	P17553-429	P17553-429	L1351	NA	NA	NA	P.abies	Germany	NA	48	11.4	650	Wu	NA	RangeWide
+P17553-428	P17553-428	P17553-428	L822	NA	NA	NA	P.abies	Austria	NA	47.5	16	1150	Wu	NA	RangeWide
+P17553-425	P17553-425	P17553-425	L724	NA	NA	NA	P.abies	Russia	NA	NA	NA	NA	Wu	NA	RangeWide
+P17553-424	P17553-424	P17553-424	L1097	NA	NA	NA	P.abies	Czech Republic	NA	49.6	16.1	800	Wu	NA	RangeWide
+P17553-422	P17553-422	P17553-422	L846	NA	NA	NA	P.abies	Germany	NA	48.9	13.4	1000	Wu	NA	RangeWide
+P17553-420	P17553-420	P17553-420	L3298	NA	NA	NA	P.abies	Norway	NA	62.3	9.7	100	Wu	NA	RangeWide
+P17553-419	P17553-419	P17553-419	L718	NA	NA	NA	P.abies	Germany	NA	54.54	13.63	90	Wu	NA	RangeWide
+P17553-417	P17553-417	P17553-417	L789	NA	NA	NA	P.abies	Germany	NA	48.2	12.7	500	Wu	NA	RangeWide
+P17553-416	P17553-416	P17553-416	L749	NA	NA	NA	P.abies	Mid Sweden	NA	63.5	19.3	149	Wu	NA	RangeWide
+P17553-415	P17553-415	P17553-415	L1338	NA	NA	NA	P.abies	Austria	NA	47.4	14	1050	Wu	NA	RangeWide
+P17553-414	P17553-414	P17553-414	L730	NA	NA	NA	P.abies	Kosovo	NA	42.7	20.1	1150	Wu	NA	RangeWide
+P17553-413	P17553-413	P17553-413	L792	NA	NA	NA	P.abies	Austria	NA	46.8	14	1475	Wu	NA	RangeWide
+P17553-412	P17553-412	P17553-412	L757	NA	NA	NA	P.abies	Poland	NA	51.3	20.6	275	Wu	NA	RangeWide
+P17553-411	P17553-411	P17553-411	L765	NA	NA	NA	P.abies	Germany	NA	51.8	10.6	725	Wu	NA	RangeWide
+P17553-409	P17553-409	P17553-409	L801	NA	NA	NA	P.abies	Poland	NA	54.3	18.4	220	Wu	NA	RangeWide
+P17553-408	P17553-408	P17553-408	L723	NA	NA	NA	P.abies	Germany	NA	47.7	10.4	800	Wu	NA	RangeWide
+P17553-407	P17553-407	P17553-407	L949	NA	NA	NA	P.abies	Czech Republic	NA	49.4	14.3	450	Wu	NA	RangeWide
+P17553-405	P17553-405	P17553-405	L1053	NA	NA	NA	P.abies	Germany	NA	49.5	9	150	Wu	NA	RangeWide
+P17553-404	P17553-404	P17553-404	L963	NA	NA	NA	P.abies	Czech Republic	NA	49.8	14	520	Wu	NA	RangeWide
+P17553-402	P17553-402	P17553-402	L750	NA	NA	NA	P.abies	Slovakia	NA	48.9	20.6	600	Wu	NA	RangeWide
+P17553-401	P17553-401	P17553-401	L901	NA	NA	NA	P.abies	Switzerland	NA	46.9	9.9	1500	Wu	NA	RangeWide
+P17553-396	P17553-396	P17553-396	L33076	NA	NA	NA	P.abies	Austria	NA	47.7	15.6	1000	Wu	NA	RangeWide
+P17553-395	P17553-395	P17553-395	L2018	NA	NA	NA	P.abies	Czech Republic	NA	48.6	14.3	790	Wu	NA	RangeWide
+P17553-394	P17553-394	P17553-394	L1658	NA	NA	NA	P.abies	Germany	NA	47.7	10.2	1000	Wu	NA	RangeWide
+P17553-393	P17553-393	P17553-393	L33075	NA	NA	NA	P.abies	Slovakia	NA	49.3	20.2	1200	Wu	NA	RangeWide
+P17553-392	P17553-392	P17553-392	L2101	NA	NA	NA	P.abies	Germany	NA	48.3	10.5	500	Wu	NA	RangeWide
+P17553-391	P17553-391	P17553-391	L33074	NA	NA	NA	P.abies	Germany	NA	48.6	8.4	850	Wu	NA	RangeWide
+P17553-390	P17553-390	P17553-390	L33073	NA	NA	NA	P.abies	Switzerland	NA	46.3	7.1	1600	Wu	NA	RangeWide
+P17553-389	P17553-389	P17553-389	L33072	NA	NA	NA	P.abies	Poland	NA	54.2	17	140	Wu	NA	RangeWide
+P17553-388	P17553-388	P17553-388	L1624	NA	NA	NA	P.abies	Poland	NA	53.4	14.9	20	Wu	NA	RangeWide
+P17553-387	P17553-387	P17553-387	L2236	NA	NA	NA	P.abies	Belgium	NA	50.4	6.3	542	Wu	NA	RangeWide
+P17553-386	P17553-386	P17553-386	L33071	NA	NA	NA	P.abies	Norway	NA	60.5	11	275	Wu	NA	RangeWide
+P17553-385	P17553-385	P17553-385	L2063	NA	NA	NA	P.abies	Czech Republic	NA	49.5	16.7	600	Wu	NA	RangeWide
+P17553-384	P17553-384	P17553-384	L2515	NA	NA	NA	P.abies	Bulgaria	NA	43.6	22.5	1400	Wu	NA	RangeWide
+P17553-383	P17553-383	P17553-383	L2059	NA	NA	NA	P.abies	Germany	NA	51.5	8.7	200	Wu	NA	RangeWide
+P17553-382	P17553-382	P17553-382	L2771	NA	NA	NA	P.abies	Slovakia	NA	48.9	19.9	1125	Wu	NA	RangeWide
+P17553-381	P17553-381	P17553-381	L2936	NA	NA	NA	P.abies	Croatia	NA	44.8	15	1150	Wu	NA	RangeWide
+P17553-380	P17553-380	P17553-380	L2834	NA	NA	NA	P.abies	Czech Republic	NA	49.8	14.2	420	Wu	NA	RangeWide
+P17553-379	P17553-379	P17553-379	L33070	NA	NA	NA	P.abies	Austria	NA	46.9	14.3	1300	Wu	NA	RangeWide
+P17553-378	P17553-378	P17553-378	L2625	NA	NA	NA	P.abies	Bulgaria	NA	42.3	23.6	1300	Wu	NA	RangeWide
+P17553-377	P17553-377	P17553-377	L33069	NA	NA	NA	P.abies	Austria	NA	47.6	14.3	750	Wu	NA	RangeWide
+P17553-376	P17553-376	P17553-376	L2879	NA	NA	NA	P.abies	Poland	NA	54.4	16.6	35	Wu	NA	RangeWide
+P17553-375	P17553-375	P17553-375	L33068	NA	NA	NA	P.abies	Austria	NA	47.2	14.7	850	Wu	NA	RangeWide
+P17553-374	P17553-374	P17553-374	L2617	NA	NA	NA	P.abies	Germany	NA	47.7	10.4	1000	Wu	NA	RangeWide
+P17553-373	P17553-373	P17553-373	L33067	NA	NA	NA	P.abies	Czech Republic	NA	50.1	12.3	550	Wu	NA	RangeWide
+P17553-372	P17553-372	P17553-372	L2620	NA	NA	NA	P.abies	Germany	NA	49.1	13.3	1200	Wu	NA	RangeWide
+P17553-371	P17553-371	P17553-371	L33066	NA	NA	NA	P.abies	Norway	NA	60	10.7	160	Wu	NA	RangeWide
+P17553-370	P17553-370	P17553-370	L2988	NA	NA	NA	P.abies	Germany	NA	49.5	10.5	400	Wu	NA	RangeWide
+P17553-369	P17553-369	P17553-369	L2897	NA	NA	NA	P.abies	Germany	NA	48.1	10.9	800	Wu	NA	RangeWide
+P17553-368	P17553-368	P17553-368	L2773	NA	NA	NA	P.abies	France	NA	48.2	6.9	750	Wu	NA	RangeWide
+P17553-367	P17553-367	P17553-367	L2833	NA	NA	NA	P.abies	Austria	NA	47.6	12.1	800	Wu	NA	RangeWide
+P17553-366	P17553-366	P17553-366	L2883	NA	NA	NA	P.abies	Poland	NA	53.3	23.3	175	Wu	NA	RangeWide
+P17553-365	P17553-365	P17553-365	L33065	NA	NA	NA	P.abies	Austria	NA	47.5	10.7	1000	Wu	NA	RangeWide
+P17553-364	P17553-364	P17553-364	L2672	NA	NA	NA	P.abies	Czech Republic	NA	48.7	14.7	850	Wu	NA	RangeWide
+P17553-363	P17553-363	P17553-363	L3246	NA	NA	NA	P.abies	Germany	NA	48.3	9.5	800	Wu	NA	RangeWide
+P17553-362	P17553-362	P17553-362	L33064	NA	NA	NA	P.abies	Austria	NA	46.5	14.6	1000	Wu	NA	RangeWide
+P17553-361	P17553-361	P17553-361	L2900	NA	NA	NA	P.abies	Germany	NA	48	9.2	600	Wu	NA	RangeWide
+P17553-360	P17553-360	P17553-360	L2972	NA	NA	NA	P.abies	Germany	NA	47.7	11.8	1150	Wu	NA	RangeWide
+P17553-359	P17553-359	P17553-359	L2933	NA	NA	NA	P.abies	Czech Republic	NA	49.7	16.3	720	Wu	NA	RangeWide
+P17553-358	P17553-358	P17553-358	L33063	NA	NA	NA	P.abies	Romania	NA	47.3	25	1410	Wu	NA	RangeWide
+P17553-357	P17553-357	P17553-357	L2882	NA	NA	NA	P.abies	Poland	NA	54.2	22	150	Wu	NA	RangeWide
+P17553-356	P17553-356	P17553-356	L2861	NA	NA	NA	P.abies	Belarus	NA	55.1	30.2	150	Wu	NA	RangeWide
+P17553-355	P17553-355	P17553-355	L2831	NA	NA	NA	P.abies	Germany	NA	48.1	11.6	500	Wu	NA	RangeWide
+P17553-354	P17553-354	P17553-354	L2830	NA	NA	NA	P.abies	Mid Sweden	NA	59.1	16.4	65	Wu	NA	RangeWide
+P17553-353	P17553-353	P17553-353	L2703	NA	NA	NA	P.abies	Czech Republic	NA	49.8	17.5	610	Wu	NA	RangeWide
+P17553-352	P17553-352	P17553-352	L2938	NA	NA	NA	P.abies	Denmark	NA	56.8	10	60	Wu	NA	RangeWide
+P17553-351	P17553-351	P17553-351	L2859	NA	NA	NA	P.abies	Slovakia	NA	48.9	20.2	1000	Wu	NA	RangeWide
+P17553-350	P17553-350	P17553-350	L2971	NA	NA	NA	P.abies	Germany	NA	47.8	9.6	600	Wu	NA	RangeWide
+P17553-349	P17553-349	P17553-349	L2873	NA	NA	NA	P.abies	Czech Republic	NA	49.8	14.2	450	Wu	NA	RangeWide
+P17553-348	P17553-348	P17553-348	L2905	NA	NA	NA	P.abies	Romania	NA	47.8	25.8	670	Wu	NA	RangeWide
+P17553-347	P17553-347	P17553-347	L2860	NA	NA	NA	P.abies	Slovakia	NA	49	18.9	700	Wu	NA	RangeWide
+P17553-346	P17553-346	P17553-346	L3078	NA	NA	NA	P.abies	Germany	NA	49.1	13.2	600	Wu	NA	RangeWide
+P17553-345	P17553-345	P17553-345	L3212	NA	NA	NA	P.abies	Germany	NA	48.8	8.3	500	Wu	NA	RangeWide
+P17553-344	P17553-344	P17553-344	L2962	NA	NA	NA	P.abies	Southern Sweden	NA	57.6	14.2	240	Wu	NA	RangeWide
+P17553-343	P17553-343	P17553-343	L2815	NA	NA	NA	P.abies	Austria	NA	47	14.4	900	Wu	NA	RangeWide
+P17553-342	P17553-342	P17553-342	L2986	NA	NA	NA	P.abies	Austria	NA	47.2	13.8	1250	Wu	NA	RangeWide
+P17553-341	P17553-341	P17553-341	L2848	NA	NA	NA	P.abies	Mid Sweden	NA	62.3	14.1	450	Wu	NA	RangeWide
+P17553-340	P17553-340	P17553-340	L2820	NA	NA	NA	P.abies	Germany	NA	49.7	8.6	500	Wu	NA	RangeWide
+P17553-339	P17553-339	P17553-339	L3060	NA	NA	NA	P.abies	Southern Sweden	NA	56.3	14.8	175	Wu	NA	RangeWide
+P17553-338	P17553-338	P17553-338	L2803	NA	NA	NA	P.abies	Germany	NA	53.8	11.3	100	Wu	NA	RangeWide
+P17553-337	P17553-337	P17553-337	L2876	NA	NA	NA	P.abies	Germany	NA	48.1	10.6	500	Wu	NA	RangeWide
+P17553-336	P17553-336	P17553-336	L3187	NA	NA	NA	P.abies	Germany	NA	47.7	11.8	1100	Wu	NA	RangeWide
+P17553-335	P17553-335	P17553-335	L2670	NA	NA	NA	P.abies	Germany	NA	48.1	10.6	500	Wu	NA	RangeWide
+P17553-334	P17553-334	P17553-334	H340	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.1	16.58	NA	Wu	NA	BreedingPopulation
+P17553-333	P17553-333	P17553-333	H80	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.2	17.15	NA	Wu	NA	BreedingPopulation
+P17553-332	P17553-332	P17553-332	H155	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.43	16.85	NA	Wu	NA	BreedingPopulation
+P17553-331	P17553-331	P17553-331	H47	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.3	17.4	NA	Wu	NA	BreedingPopulation
+P17553-330	P17553-330	P17553-330	H192	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P17553-329	P17553-329	P17553-329	H165	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.25	17.65	NA	Wu	NA	BreedingPopulation
+P17553-328	P17553-328	P17553-328	H503	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.43	16.85	NA	Wu	NA	BreedingPopulation
+P17553-327	P17553-327	P17553-327	H75	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.48	17.67	NA	Wu	NA	BreedingPopulation
+P17553-326	P17553-326	P17553-326	H172	NA	NA	NA	P.abies	Sweden	Northern breeding population	65.1	20.55	NA	Wu	NA	BreedingPopulation
+P17553-325	P17553-325	P17553-325	H134	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P17553-324	P17553-324	P17553-324	H151	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.62	16.48	NA	Wu	NA	BreedingPopulation
+P17553-323	P17553-323	P17553-323	H111	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.68	22.65	NA	Wu	NA	BreedingPopulation
+P17553-322	P17553-322	P17553-322	H156	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.43	17.17	NA	Wu	NA	BreedingPopulation
+P17553-321	P17553-321	P17553-321	H1030	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.45	15.85	NA	Wu	NA	BreedingPopulation
+P17553-320	P17553-320	P17553-320	H128	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.57	17.72	NA	Wu	NA	BreedingPopulation
+P17553-319	P17553-319	P17553-319	H143	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.58	15.87	NA	Wu	NA	BreedingPopulation
+P17553-318	P17553-318	P17553-318	H184	NA	NA	NA	P.abies	Sweden	Northern breeding population	61	13.3	NA	Wu	NA	BreedingPopulation
+P17553-317	P17553-317	P17553-317	H955	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.78	18.1	NA	Wu	NA	BreedingPopulation
+P17553-316	P17553-316	P17553-316	H166	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.25	17.65	NA	Wu	NA	BreedingPopulation
+P17553-315	P17553-315	P17553-315	H130	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.95	16.38	NA	Wu	NA	BreedingPopulation
+P17553-314	P17553-314	P17553-314	H224	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.88	18.27	NA	Wu	NA	BreedingPopulation
+P17553-313	P17553-313	P17553-313	H167	NA	NA	NA	P.abies	Sweden	Northern breeding population	65.4	20.93	NA	Wu	NA	BreedingPopulation
+P17553-312	P17553-312	P17553-312	H91	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.95	16.28	NA	Wu	NA	BreedingPopulation
+P17553-311	P17553-311	P17553-311	H191	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.63	14.43	NA	Wu	NA	BreedingPopulation
+P17553-310	P17553-310	P17553-310	H182	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.6	16.52	NA	Wu	NA	BreedingPopulation
+P17553-309	P17553-309	P17553-309	H164	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.05	15.48	NA	Wu	NA	BreedingPopulation
+P17553-308	P17553-308	P17553-308	H163	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.22	20.12	NA	Wu	NA	BreedingPopulation
+P17553-307	P17553-307	P17553-307	H145	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.15	18.67	NA	Wu	NA	BreedingPopulation
+P17553-306	P17553-306	P17553-306	H171	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.37	14.23	NA	Wu	NA	BreedingPopulation
+P17553-305	P17553-305	P17553-305	H160	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.28	15.98	NA	Wu	NA	BreedingPopulation
+P17553-304	P17553-304	P17553-304	H146	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.58	18.12	NA	Wu	NA	BreedingPopulation
+P17553-303	P17553-303	P17553-303	H104	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.62	16.48	NA	Wu	NA	BreedingPopulation
+P17553-302	P17553-302	P17553-302	H208	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.95	16.38	NA	Wu	NA	BreedingPopulation
+P17553-301	P17553-301	P17553-301	H159	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.57	19.17	NA	Wu	NA	BreedingPopulation
+P17553-296	P17553-296	P17553-296	H1250	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.78	16.1	NA	Wu	NA	BreedingPopulation
+P17553-295	P17553-295	P17553-295	H954	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.62	16.48	NA	Wu	NA	BreedingPopulation
+P17553-294	P17553-294	P17553-294	H876	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.15	18.67	NA	Wu	NA	BreedingPopulation
+P17553-293	P17553-293	P17553-293	H853	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.63	14.43	NA	Wu	NA	BreedingPopulation
+P17553-292	P17553-292	P17553-292	H851	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.75	16.6	NA	Wu	NA	BreedingPopulation
+P17553-291	P17553-291	P17553-291	H847	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.58	18.12	NA	Wu	NA	BreedingPopulation
+P17553-290	P17553-290	P17553-290	H842	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P17553-289	P17553-289	P17553-289	H841	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.38	15.4	NA	Wu	NA	BreedingPopulation
+P17553-288	P17553-288	P17553-288	H839	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.73	21.63	NA	Wu	NA	BreedingPopulation
+P17553-287	P17553-287	P17553-287	H838	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.88	16.58	NA	Wu	NA	BreedingPopulation
+P17553-286	P17553-286	P17553-286	H834	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.37	14.25	NA	Wu	NA	BreedingPopulation
+P17553-285	P17553-285	P17553-285	H816	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.28	17.4	NA	Wu	NA	BreedingPopulation
+P17553-284	P17553-284	P17553-284	H740	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.82	17.78	NA	Wu	NA	BreedingPopulation
+P17553-283	P17553-283	P17553-283	H735	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.22	20.12	NA	Wu	NA	BreedingPopulation
+P17553-282	P17553-282	P17553-282	H720	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.8	14.83	NA	Wu	NA	BreedingPopulation
+P17553-281	P17553-281	P17553-281	H719	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.6	16.52	NA	Wu	NA	BreedingPopulation
+P17553-280	P17553-280	P17553-280	H717	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.47	15.5	NA	Wu	NA	BreedingPopulation
+P17553-279	P17553-279	P17553-279	H713	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.63	15.08	NA	Wu	NA	BreedingPopulation
+P17553-278	P17553-278	P17553-278	H701	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.33	20.33	NA	Wu	NA	BreedingPopulation
+P17553-277	P17553-277	P17553-277	H223	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.45	16.98	NA	Wu	NA	BreedingPopulation
+P17553-276	P17553-276	P17553-276	H219	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.81	16.4	NA	Wu	NA	BreedingPopulation
+P17553-275	P17553-275	P17553-275	H204	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.73	21.63	NA	Wu	NA	BreedingPopulation
+P17553-274	P17553-274	P17553-274	H194	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.05	15.48	NA	Wu	NA	BreedingPopulation
+P17553-273	P17553-273	P17553-273	H193	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.73	18.77	NA	Wu	NA	BreedingPopulation
+P17553-272	P17553-272	P17553-272	H189	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.82	17.78	NA	Wu	NA	BreedingPopulation
+P17553-271	P17553-271	P17553-271	H188	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.43	16.85	NA	Wu	NA	BreedingPopulation
+P17553-270	P17553-270	P17553-270	H187	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.28	17.4	NA	Wu	NA	BreedingPopulation
+P17553-269	P17553-269	P17553-269	H186	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	18.37	NA	Wu	NA	BreedingPopulation
+P17553-268	P17553-268	P17553-268	H185	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.95	16.28	NA	Wu	NA	BreedingPopulation
+P17553-267	P17553-267	P17553-267	H183	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P17553-266	P17553-266	P17553-266	H181	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.92	18.03	NA	Wu	NA	BreedingPopulation
+P17553-265	P17553-265	P17553-265	H178	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P17553-264	P17553-264	P17553-264	H177	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.47	15.5	NA	Wu	NA	BreedingPopulation
+P17553-263	P17553-263	P17553-263	H173	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.58	18.12	NA	Wu	NA	BreedingPopulation
+P17553-262	P17553-262	P17553-262	H169	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.05	15.48	NA	Wu	NA	BreedingPopulation
+P17553-261	P17553-261	P17553-261	H168	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.47	16.75	NA	Wu	NA	BreedingPopulation
+P17553-260	P17553-260	P17553-260	H161	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.83	17.77	NA	Wu	NA	BreedingPopulation
+P17553-259	P17553-259	P17553-259	H158	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.92	17.5	NA	Wu	NA	BreedingPopulation
+P17553-258	P17553-258	P17553-258	H157	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.5	13.82	NA	Wu	NA	BreedingPopulation
+P17553-257	P17553-257	P17553-257	H154	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.15	14.55	NA	Wu	NA	BreedingPopulation
+P17553-256	P17553-256	P17553-256	H148	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.53	17.5	NA	Wu	NA	BreedingPopulation
+P17553-255	P17553-255	P17553-255	H147	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.02	22.63	NA	Wu	NA	BreedingPopulation
+P17553-254	P17553-254	P17553-254	H142	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P17553-253	P17553-253	P17553-253	H141	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.57	17.72	NA	Wu	NA	BreedingPopulation
+P17553-252	P17553-252	P17553-252	H138	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.43	17.17	NA	Wu	NA	BreedingPopulation
+P17553-251	P17553-251	P17553-251	H133	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.57	19.17	NA	Wu	NA	BreedingPopulation
+P17553-250	P17553-250	P17553-250	H131	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.83	17.77	NA	Wu	NA	BreedingPopulation
+P17553-249	P17553-249	P17553-249	H126	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.73	21.63	NA	Wu	NA	BreedingPopulation
+P17553-248	P17553-248	P17553-248	H125	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.82	23.42	NA	Wu	NA	BreedingPopulation
+P17553-247	P17553-247	P17553-247	H124	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.07	15.53	NA	Wu	NA	BreedingPopulation
+P17553-246	P17553-246	P17553-246	H118	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.22	20.12	NA	Wu	NA	BreedingPopulation
+P17553-245	P17553-245	P17553-245	H116	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.33	16.97	NA	Wu	NA	BreedingPopulation
+P17553-244	P17553-244	P17553-244	H113	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.07	15.53	NA	Wu	NA	BreedingPopulation
+P17553-243	P17553-243	P17553-243	H109	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.75	16.6	NA	Wu	NA	BreedingPopulation
+P17553-242	P17553-242	P17553-242	H106	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.95	18.58	NA	Wu	NA	BreedingPopulation
+P17553-241	P17553-241	P17553-241	H103	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.53	17.5	NA	Wu	NA	BreedingPopulation
+P17553-240	P17553-240	P17553-240	H102	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.6	16.52	NA	Wu	NA	BreedingPopulation
+P17553-239	P17553-239	P17553-239	H100	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.78	16.1	NA	Wu	NA	BreedingPopulation
+P17553-238	P17553-238	P17553-238	H99	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.47	16.75	NA	Wu	NA	BreedingPopulation
+P17553-237	P17553-237	P17553-237	H97	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.95	16.38	NA	Wu	NA	BreedingPopulation
+P17553-236	P17553-236	P17553-236	H96	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.62	16.48	NA	Wu	NA	BreedingPopulation
+P17553-235	P17553-235	P17553-235	H95	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.57	17.72	NA	Wu	NA	BreedingPopulation
+P17553-234	P17553-234	P17553-234	H90	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.42	18.62	NA	Wu	NA	BreedingPopulation
+P17553-233	P17553-233	P17553-233	H89	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.27	17.05	NA	Wu	NA	BreedingPopulation
+P17553-232	P17553-232	P17553-232	H88	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.78	18.1	NA	Wu	NA	BreedingPopulation
+P17553-231	P17553-231	P17553-231	H86	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.9	17.48	NA	Wu	NA	BreedingPopulation
+P17553-230	P17553-230	P17553-230	H84	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.42	18.62	NA	Wu	NA	BreedingPopulation
+P17553-229	P17553-229	P17553-229	H83	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.38	20.75	NA	Wu	NA	BreedingPopulation
+P17553-228	P17553-228	P17553-228	H78	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.95	16.38	NA	Wu	NA	BreedingPopulation
+P17553-227	P17553-227	P17553-227	H74	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.82	17.78	NA	Wu	NA	BreedingPopulation
+P17553-226	P17553-226	P17553-226	H70	NA	NA	NA	P.abies	Sweden	Northern breeding population	67.55	22.5	NA	Wu	NA	BreedingPopulation
+P17553-225	P17553-225	P17553-225	H68	NA	NA	NA	P.abies	Sweden	Northern breeding population	65.07	17.08	NA	Wu	NA	BreedingPopulation
+P17553-224	P17553-224	P17553-224	H66	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.73	21.63	NA	Wu	NA	BreedingPopulation
+P17553-223	P17553-223	P17553-223	H62	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.08	15.32	NA	Wu	NA	BreedingPopulation
+P17553-222	P17553-222	P17553-222	H58	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.85	NA	Wu	NA	BreedingPopulation
+P17553-221	P17553-221	P17553-221	H54	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.3	17.4	NA	Wu	NA	BreedingPopulation
+P17553-220	P17553-220	P17553-220	H53	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.15	18.67	NA	Wu	NA	BreedingPopulation
+P17553-219	P17553-219	P17553-219	H52	NA	NA	NA	P.abies	Sweden	Northern breeding population	65.4	20.93	NA	Wu	NA	BreedingPopulation
+P17553-218	P17553-218	P17553-218	H49	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.28	15.98	NA	Wu	NA	BreedingPopulation
+P17553-217	P17553-217	P17553-217	H43	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.15	14.55	NA	Wu	NA	BreedingPopulation
+P17553-216	P17553-216	P17553-216	H36	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.22	20.12	NA	Wu	NA	BreedingPopulation
+P17553-215	P17553-215	P17553-215	H35	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	18.37	NA	Wu	NA	BreedingPopulation
+P17553-214	P17553-214	P17553-214	H34	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.9	17.48	NA	Wu	NA	BreedingPopulation
+P17553-213	P17553-213	P17553-213	H33	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.92	17.67	NA	Wu	NA	BreedingPopulation
+P17553-212	P17553-212	P17553-212	H30	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.25	17.65	NA	Wu	NA	BreedingPopulation
+P17553-211	P17553-211	P17553-211	H29	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.82	17.57	NA	Wu	NA	BreedingPopulation
+P17553-210	P17553-210	P17553-210	H26	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.1	16.58	NA	Wu	NA	BreedingPopulation
+P17553-209	P17553-209	P17553-209	H20	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	16.92	NA	Wu	NA	BreedingPopulation
+P17553-208	P17553-208	P17553-208	H18	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.37	14.25	NA	Wu	NA	BreedingPopulation
+P17553-207	P17553-207	P17553-207	H17	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.82	17.78	NA	Wu	NA	BreedingPopulation
+P17553-206	P17553-206	P17553-206	H14	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.92	17.5	NA	Wu	NA	BreedingPopulation
+P17553-205	P17553-205	P17553-205	H9	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.83	NA	Wu	NA	BreedingPopulation
+P17553-204	P17553-204	P17553-204	H5	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.62	16.48	NA	Wu	NA	BreedingPopulation
+P17553-203	P17553-203	P17553-203	H4	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	18.37	NA	Wu	NA	BreedingPopulation
+P17553-202	P17553-202	P17553-202	H3	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.83	17.55	NA	Wu	NA	BreedingPopulation
+P17553-201	P17553-201	P17553-201	H1	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.53	17.68	NA	Wu	NA	BreedingPopulation
+P17553-196	P17553-196	P17553-196	H427	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.78	16.1	NA	Wu	NA	BreedingPopulation
+P17553-195	P17553-195	P17553-195	H527	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.73	21.63	NA	Wu	NA	BreedingPopulation
+P17553-194	P17553-194	P17553-194	H537	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.3	17.4	NA	Wu	NA	BreedingPopulation
+P17553-193	P17553-193	P17553-193	H516	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P17553-192	P17553-192	P17553-192	H545	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.58	15.87	NA	Wu	NA	BreedingPopulation
+P17553-191	P17553-191	P17553-191	H1235	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.58	18.12	NA	Wu	NA	BreedingPopulation
+P17553-190	P17553-190	P17553-190	H1236	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.5	13.82	NA	Wu	NA	BreedingPopulation
+P17553-189	P17553-189	P17553-189	H492	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.83	NA	Wu	NA	BreedingPopulation
+P17553-188	P17553-188	P17553-188	H256	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.33	16.97	NA	Wu	NA	BreedingPopulation
+P17553-187	P17553-187	P17553-187	H582	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.38	20.75	NA	Wu	NA	BreedingPopulation
+P17553-186	P17553-186	P17553-186	H648	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.82	23.42	NA	Wu	NA	BreedingPopulation
+P17553-185	P17553-185	P17553-185	H1240	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.92	17.83	NA	Wu	NA	BreedingPopulation
+P17553-184	P17553-184	P17553-184	H521	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.92	17.33	NA	Wu	NA	BreedingPopulation
+P17553-183	P17553-183	P17553-183	H350	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.82	17.62	NA	Wu	NA	BreedingPopulation
+P17553-182	P17553-182	P17553-182	H623	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	16.92	NA	Wu	NA	BreedingPopulation
+P17553-181	P17553-181	P17553-181	H472	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.25	17.65	NA	Wu	NA	BreedingPopulation
+P17553-180	P17553-180	P17553-180	H536	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.53	17.68	NA	Wu	NA	BreedingPopulation
+P17553-179	P17553-179	P17553-179	H1243	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.28	15.98	NA	Wu	NA	BreedingPopulation
+P17553-178	P17553-178	P17553-178	H1249	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.25	17.65	NA	Wu	NA	BreedingPopulation
+P17553-177	P17553-177	P17553-177	H1234	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.45	18.17	NA	Wu	NA	BreedingPopulation
+P17553-176	P17553-176	P17553-176	H443	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.92	17.5	NA	Wu	NA	BreedingPopulation
+P17553-175	P17553-175	P17553-175	H261	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.15	14.55	NA	Wu	NA	BreedingPopulation
+P17553-174	P17553-174	P17553-174	H419	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.53	17.5	NA	Wu	NA	BreedingPopulation
+P17553-173	P17553-173	P17553-173	H1231	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.82	17.78	NA	Wu	NA	BreedingPopulation
+P17553-172	P17553-172	P17553-172	H560	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.95	16.28	NA	Wu	NA	BreedingPopulation
+P17553-171	P17553-171	P17553-171	H1241	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	16.92	NA	Wu	NA	BreedingPopulation
+P17553-170	P17553-170	P17553-170	H390	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.43	17.17	NA	Wu	NA	BreedingPopulation
+P17553-169	P17553-169	P17553-169	H384	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	20.05	NA	Wu	NA	BreedingPopulation
+P17553-168	P17553-168	P17553-168	H388	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.57	19.17	NA	Wu	NA	BreedingPopulation
+P17553-167	P17553-167	P17553-167	H414	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	18.37	NA	Wu	NA	BreedingPopulation
+P17553-166	P17553-166	P17553-166	H766	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.38	20.75	NA	Wu	NA	BreedingPopulation
+P17553-165	P17553-165	P17553-165	H312	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.92	17.83	NA	Wu	NA	BreedingPopulation
+P17553-164	P17553-164	P17553-164	H827	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	20.05	NA	Wu	NA	BreedingPopulation
+P17553-163	P17553-163	P17553-163	H733	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.43	16.85	NA	Wu	NA	BreedingPopulation
+P17553-162	P17553-162	P17553-162	H298	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.28	15.98	NA	Wu	NA	BreedingPopulation
+P17553-161	P17553-161	P17553-161	H409	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.82	17.62	NA	Wu	NA	BreedingPopulation
+P17553-160	P17553-160	P17553-160	H476	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.9	17.48	NA	Wu	NA	BreedingPopulation
+P17553-159	P17553-159	P17553-159	H354	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.57	17.72	NA	Wu	NA	BreedingPopulation
+P17553-158	P17553-158	P17553-158	H694	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.25	17.65	NA	Wu	NA	BreedingPopulation
+P17553-157	P17553-157	P17553-157	H1233	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.15	14.55	NA	Wu	NA	BreedingPopulation
+P17553-156	P17553-156	P17553-156	H794	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.82	23.42	NA	Wu	NA	BreedingPopulation
+P17553-155	P17553-155	P17553-155	H262	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.37	14.23	NA	Wu	NA	BreedingPopulation
+P17553-154	P17553-154	P17553-154	H1253	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.53	17.68	NA	Wu	NA	BreedingPopulation
+P17553-153	P17553-153	P17553-153	H732	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.2	17.58	NA	Wu	NA	BreedingPopulation
+P17553-152	P17553-152	P17553-152	H279	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.47	15.5	NA	Wu	NA	BreedingPopulation
+P17553-151	P17553-151	P17553-151	H406	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.58	15.87	NA	Wu	NA	BreedingPopulation
+P17553-150	P17553-150	P17553-150	H397	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.88	16.58	NA	Wu	NA	BreedingPopulation
+P17553-149	P17553-149	P17553-149	H285	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.53	17.5	NA	Wu	NA	BreedingPopulation
+P17553-148	P17553-148	P17553-148	H376	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	18.37	NA	Wu	NA	BreedingPopulation
+P17553-147	P17553-147	P17553-147	H379	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.28	17.4	NA	Wu	NA	BreedingPopulation
+P17553-146	P17553-146	P17553-146	H240	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	18.37	NA	Wu	NA	BreedingPopulation
+P17553-145	P17553-145	P17553-145	H321	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P17553-144	P17553-144	P17553-144	H398	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.53	17.5	NA	Wu	NA	BreedingPopulation
+P17553-143	P17553-143	P17553-143	H260	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.28	15.98	NA	Wu	NA	BreedingPopulation
+P17553-142	P17553-142	P17553-142	H323	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.57	17.72	NA	Wu	NA	BreedingPopulation
+P17553-141	P17553-141	P17553-141	H353	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.85	NA	Wu	NA	BreedingPopulation
+P17553-140	P17553-140	P17553-140	H282	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.58	NA	Wu	NA	BreedingPopulation
+P17553-139	P17553-139	P17553-139	H287	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.47	16.75	NA	Wu	NA	BreedingPopulation
+P17553-138	P17553-138	P17553-138	H267	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.22	20.12	NA	Wu	NA	BreedingPopulation
+P17553-137	P17553-137	P17553-137	H826	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.22	20.12	NA	Wu	NA	BreedingPopulation
+P17553-136	P17553-136	P17553-136	H288	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.25	17.65	NA	Wu	NA	BreedingPopulation
+P17553-135	P17553-135	P17553-135	H341	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.83	17.77	NA	Wu	NA	BreedingPopulation
+P17553-134	P17553-134	P17553-134	H380	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P17553-133	P17553-133	P17553-133	H317	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.37	14.25	NA	Wu	NA	BreedingPopulation
+P17553-132	P17553-132	P17553-132	H370	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.5	13.82	NA	Wu	NA	BreedingPopulation
+P17553-131	P17553-131	P17553-131	H318	NA	NA	NA	P.abies	Sweden	Northern breeding population	65.4	20.93	NA	Wu	NA	BreedingPopulation
+P17553-130	P17553-130	P17553-130	H316	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.73	21.03	NA	Wu	NA	BreedingPopulation
+P17553-129	P17553-129	P17553-129	H249	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.9	17.48	NA	Wu	NA	BreedingPopulation
+P17553-128	P17553-128	P17553-128	H403	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P17553-127	P17553-127	P17553-127	H226	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.72	16.1	NA	Wu	NA	BreedingPopulation
+P17553-126	P17553-126	P17553-126	H416	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.81	16.4	NA	Wu	NA	BreedingPopulation
+P17553-125	P17553-125	P17553-125	H280	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.58	NA	Wu	NA	BreedingPopulation
+P17553-124	P17553-124	P17553-124	H352	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.88	16.58	NA	Wu	NA	BreedingPopulation
+P17553-123	P17553-123	P17553-123	H405	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.15	14.55	NA	Wu	NA	BreedingPopulation
+P17553-122	P17553-122	P17553-122	H652	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.83	17.77	NA	Wu	NA	BreedingPopulation
+P17553-121	P17553-121	P17553-121	H290	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.02	22.63	NA	Wu	NA	BreedingPopulation
+P17553-120	P17553-120	P17553-120	H415	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.05	15.48	NA	Wu	NA	BreedingPopulation
+P17553-119	P17553-119	P17553-119	H389	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.48	14.08	NA	Wu	NA	BreedingPopulation
+P17553-118	P17553-118	P17553-118	H789	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.9	17.48	NA	Wu	NA	BreedingPopulation
+P17553-117	P17553-117	P17553-117	H253	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.87	15	NA	Wu	NA	BreedingPopulation
+P17553-116	P17553-116	P17553-116	H385	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.58	18.12	NA	Wu	NA	BreedingPopulation
+P17553-115	P17553-115	P17553-115	H270	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.28	15.98	NA	Wu	NA	BreedingPopulation
+P17553-114	P17553-114	P17553-114	H314	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.62	16.48	NA	Wu	NA	BreedingPopulation
+P17553-113	P17553-113	P17553-113	H369	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.22	20.12	NA	Wu	NA	BreedingPopulation
+P17553-112	P17553-112	P17553-112	H231	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.02	22.63	NA	Wu	NA	BreedingPopulation
+P17553-111	P17553-111	P17553-111	H387	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.15	18.67	NA	Wu	NA	BreedingPopulation
+P17553-110	P17553-110	P17553-110	H377	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P17553-109	P17553-109	P17553-109	H663	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.63	15.08	NA	Wu	NA	BreedingPopulation
+P17553-108	P17553-108	P17553-108	H325	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.28	14.93	NA	Wu	NA	BreedingPopulation
+P17553-107	P17553-107	P17553-107	H319	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.28	15.98	NA	Wu	NA	BreedingPopulation
+P17553-106	P17553-106	P17553-106	H692	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.05	15.48	NA	Wu	NA	BreedingPopulation
+P17553-105	P17553-105	P17553-105	H269	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.78	18.1	NA	Wu	NA	BreedingPopulation
+P17553-104	P17553-104	P17553-104	H291	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.82	23.42	NA	Wu	NA	BreedingPopulation
+P17553-103	P17553-103	P17553-103	H255	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.85	14.33	NA	Wu	NA	BreedingPopulation
+P17553-102	P17553-102	P17553-102	H363	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.82	15.02	NA	Wu	NA	BreedingPopulation
+P17553-101	P17553-101	P17553-101	H401	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.78	16.1	NA	Wu	NA	BreedingPopulation
+P15766-296	P15766-296	P15766-296	H1058	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.03	15.58	NA	Wu	NA	BreedingPopulation
+P15766-295	P15766-295	P15766-295	H1019	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P15766-294	P15766-294	P15766-294	H1017	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.15	14.55	NA	Wu	NA	BreedingPopulation
+P15766-293	P15766-293	P15766-293	H644	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.67	16.6	NA	Wu	NA	BreedingPopulation
+P15766-292	P15766-292	P15766-292	H640	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.48	14.08	NA	Wu	NA	BreedingPopulation
+P15766-291	P15766-291	P15766-291	H628	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.53	17.5	NA	Wu	NA	BreedingPopulation
+P15766-290	P15766-290	P15766-290	H627	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.52	20.8	NA	Wu	NA	BreedingPopulation
+P15766-289	P15766-289	P15766-289	H609	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.48	17.67	NA	Wu	NA	BreedingPopulation
+P15766-288	P15766-288	P15766-288	H608	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.37	14.25	NA	Wu	NA	BreedingPopulation
+P15766-287	P15766-287	P15766-287	H607	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.85	NA	Wu	NA	BreedingPopulation
+P15766-286	P15766-286	P15766-286	H558	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.33	20.33	NA	Wu	NA	BreedingPopulation
+P15766-285	P15766-285	P15766-285	H557	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.58	NA	Wu	NA	BreedingPopulation
+P15766-284	P15766-284	P15766-284	H548	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.85	NA	Wu	NA	BreedingPopulation
+P15766-283	P15766-283	P15766-283	H544	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.47	15.5	NA	Wu	NA	BreedingPopulation
+P15766-282	P15766-282	P15766-282	H532	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.68	22.65	NA	Wu	NA	BreedingPopulation
+P15766-281	P15766-281	P15766-281	H531	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.52	20.8	NA	Wu	NA	BreedingPopulation
+P15766-280	P15766-280	P15766-280	H522	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.82	17.62	NA	Wu	NA	BreedingPopulation
+P15766-279	P15766-279	P15766-279	H518	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.3	17.4	NA	Wu	NA	BreedingPopulation
+P15766-278	P15766-278	P15766-278	H513	NA	NA	NA	P.abies	Sweden	Northern breeding population	65.4	20.93	NA	Wu	NA	BreedingPopulation
+P15766-277	P15766-277	P15766-277	H511	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.62	16.48	NA	Wu	NA	BreedingPopulation
+P15766-276	P15766-276	P15766-276	H506	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.42	18.62	NA	Wu	NA	BreedingPopulation
+P15766-275	P15766-275	P15766-275	H505	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.47	15.5	NA	Wu	NA	BreedingPopulation
+P15766-274	P15766-274	P15766-274	H498	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.58	18.12	NA	Wu	NA	BreedingPopulation
+P15766-273	P15766-273	P15766-273	H491	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.58	15.87	NA	Wu	NA	BreedingPopulation
+P15766-272	P15766-272	P15766-272	H283	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P15766-271	P15766-271	P15766-271	H242	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.83	NA	Wu	NA	BreedingPopulation
+P15766-270	P15766-270	P15766-270	H222	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.58	18.45	NA	Wu	NA	BreedingPopulation
+P15766-269	P15766-269	P15766-269	H220	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.92	17.67	NA	Wu	NA	BreedingPopulation
+P15766-268	P15766-268	P15766-268	H218	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.6	16.52	NA	Wu	NA	BreedingPopulation
+P15766-267	P15766-267	P15766-267	H214	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.47	15.5	NA	Wu	NA	BreedingPopulation
+P15766-266	P15766-266	P15766-266	H213	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.95	16.28	NA	Wu	NA	BreedingPopulation
+P15766-265	P15766-265	P15766-265	H212	NA	NA	NA	P.abies	Sweden	Northern breeding population	64	17.65	NA	Wu	NA	BreedingPopulation
+P15766-264	P15766-264	P15766-264	H211	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.47	16.75	NA	Wu	NA	BreedingPopulation
+P15766-263	P15766-263	P15766-263	H210	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.08	15.32	NA	Wu	NA	BreedingPopulation
+P15766-262	P15766-262	P15766-262	H205	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.15	14.55	NA	Wu	NA	BreedingPopulation
+P15766-261	P15766-261	P15766-261	H201	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.38	20.75	NA	Wu	NA	BreedingPopulation
+P15766-260	P15766-260	P15766-260	H200	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.88	16.58	NA	Wu	NA	BreedingPopulation
+P15766-259	P15766-259	P15766-259	H199	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.28	15.98	NA	Wu	NA	BreedingPopulation
+P15766-258	P15766-258	P15766-258	H195	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.45	19.6	NA	Wu	NA	BreedingPopulation
+P15766-257	P15766-257	P15766-257	H179	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	18.37	NA	Wu	NA	BreedingPopulation
+P15766-256	P15766-256	P15766-256	H176	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.5	13.82	NA	Wu	NA	BreedingPopulation
+P15766-255	P15766-255	P15766-255	H175	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.95	16.38	NA	Wu	NA	BreedingPopulation
+P15766-254	P15766-254	P15766-254	H174	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.47	15.5	NA	Wu	NA	BreedingPopulation
+P15766-253	P15766-253	P15766-253	H153	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.78	18.1	NA	Wu	NA	BreedingPopulation
+P15766-252	P15766-252	P15766-252	H152	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.83	NA	Wu	NA	BreedingPopulation
+P15766-251	P15766-251	P15766-251	H150	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.58	18.12	NA	Wu	NA	BreedingPopulation
+P15766-250	P15766-250	P15766-250	H149	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.42	18.62	NA	Wu	NA	BreedingPopulation
+P15766-249	P15766-249	P15766-249	H144	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.07	15.53	NA	Wu	NA	BreedingPopulation
+P15766-248	P15766-248	P15766-248	H139	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.58	NA	Wu	NA	BreedingPopulation
+P15766-247	P15766-247	P15766-247	H137	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.22	20.12	NA	Wu	NA	BreedingPopulation
+P15766-246	P15766-246	P15766-246	H136	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.38	20.75	NA	Wu	NA	BreedingPopulation
+P15766-245	P15766-245	P15766-245	H132	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	20.05	NA	Wu	NA	BreedingPopulation
+P15766-244	P15766-244	P15766-244	H127	NA	NA	NA	P.abies	Sweden	Northern breeding population	65.4	20.93	NA	Wu	NA	BreedingPopulation
+P15766-243	P15766-243	P15766-243	H123	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.73	21.03	NA	Wu	NA	BreedingPopulation
+P15766-242	P15766-242	P15766-242	H122	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.95	16.28	NA	Wu	NA	BreedingPopulation
+P15766-241	P15766-241	P15766-241	H119	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.8	14.83	NA	Wu	NA	BreedingPopulation
+P15766-240	P15766-240	P15766-240	H117	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.78	18.1	NA	Wu	NA	BreedingPopulation
+P15766-239	P15766-239	P15766-239	H115	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	17.57	NA	Wu	NA	BreedingPopulation
+P15766-238	P15766-238	P15766-238	H114	NA	NA	NA	P.abies	Sweden	Northern breeding population	65.07	17.07	NA	Wu	NA	BreedingPopulation
+P15766-237	P15766-237	P15766-237	H112	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.92	17.67	NA	Wu	NA	BreedingPopulation
+P15766-236	P15766-236	P15766-236	H110	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.83	17.55	NA	Wu	NA	BreedingPopulation
+P15766-235	P15766-235	P15766-235	H108	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.82	17.78	NA	Wu	NA	BreedingPopulation
+P15766-234	P15766-234	P15766-234	H107	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.92	17.5	NA	Wu	NA	BreedingPopulation
+P15766-233	P15766-233	P15766-233	H105	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.63	14.43	NA	Wu	NA	BreedingPopulation
+P15766-232	P15766-232	P15766-232	H101	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	16.92	NA	Wu	NA	BreedingPopulation
+P15766-231	P15766-231	P15766-231	H98	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.58	18.12	NA	Wu	NA	BreedingPopulation
+P15766-230	P15766-230	P15766-230	H94	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.75	16.6	NA	Wu	NA	BreedingPopulation
+P15766-229	P15766-229	P15766-229	H93	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.43	17.17	NA	Wu	NA	BreedingPopulation
+P15766-228	P15766-228	P15766-228	H87	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.33	20.33	NA	Wu	NA	BreedingPopulation
+P15766-227	P15766-227	P15766-227	H85	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P15766-226	P15766-226	P15766-226	H82	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.58	15.87	NA	Wu	NA	BreedingPopulation
+P15766-225	P15766-225	P15766-225	H81	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.83	NA	Wu	NA	BreedingPopulation
+P15766-224	P15766-224	P15766-224	H79	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.82	23.42	NA	Wu	NA	BreedingPopulation
+P15766-223	P15766-223	P15766-223	H77	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.2	17.15	NA	Wu	NA	BreedingPopulation
+P15766-222	P15766-222	P15766-222	H76	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.38	20.75	NA	Wu	NA	BreedingPopulation
+P15766-221	P15766-221	P15766-221	H73	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.78	16.1	NA	Wu	NA	BreedingPopulation
+P15766-220	P15766-220	P15766-220	H72	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.28	14.93	NA	Wu	NA	BreedingPopulation
+P15766-219	P15766-219	P15766-219	H71	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.48	17.67	NA	Wu	NA	BreedingPopulation
+P15766-218	P15766-218	P15766-218	H69	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.5	13.82	NA	Wu	NA	BreedingPopulation
+P15766-217	P15766-217	P15766-217	H67	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.8	14.83	NA	Wu	NA	BreedingPopulation
+P15766-216	P15766-216	P15766-216	H63	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.83	NA	Wu	NA	BreedingPopulation
+P15766-215	P15766-215	P15766-215	H56	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.53	17.5	NA	Wu	NA	BreedingPopulation
+P15766-214	P15766-214	P15766-214	H55	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.22	20.12	NA	Wu	NA	BreedingPopulation
+P15766-213	P15766-213	P15766-213	H51	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.82	23.42	NA	Wu	NA	BreedingPopulation
+P15766-212	P15766-212	P15766-212	H50	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.42	18.62	NA	Wu	NA	BreedingPopulation
+P15766-211	P15766-211	P15766-211	H46	NA	NA	NA	P.abies	Sweden	Northern breeding population	65.2	16.67	NA	Wu	NA	BreedingPopulation
+P15766-210	P15766-210	P15766-210	H45	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	18.37	NA	Wu	NA	BreedingPopulation
+P15766-209	P15766-209	P15766-209	H32	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.22	20.12	NA	Wu	NA	BreedingPopulation
+P15766-208	P15766-208	P15766-208	H31	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.03	15.58	NA	Wu	NA	BreedingPopulation
+P15766-207	P15766-207	P15766-207	H25	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.95	16.38	NA	Wu	NA	BreedingPopulation
+P15766-206	P15766-206	P15766-206	H23	NA	NA	NA	P.abies	Sweden	Northern breeding population	65.1	20.55	NA	Wu	NA	BreedingPopulation
+P15766-205	P15766-205	P15766-205	H21	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.08	15.32	NA	Wu	NA	BreedingPopulation
+P15766-204	P15766-204	P15766-204	H12	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.78	18.1	NA	Wu	NA	BreedingPopulation
+P15766-203	P15766-203	P15766-203	H11	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.22	20.12	NA	Wu	NA	BreedingPopulation
+P15766-202	P15766-202	P15766-202	H10	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.95	16.38	NA	Wu	NA	BreedingPopulation
+P15766-201	P15766-201	P15766-201	H8	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.42	18.62	NA	Wu	NA	BreedingPopulation
+P15766-196	P15766-196	P15766-196	H1254	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.28	15.98	NA	Wu	NA	BreedingPopulation
+P15766-195	P15766-195	P15766-195	H1252	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.85	NA	Wu	NA	BreedingPopulation
+P15766-194	P15766-194	P15766-194	H1248	NA	NA	NA	P.abies	Sweden	Northern breeding population	65.4	20.93	NA	Wu	NA	BreedingPopulation
+P15766-193	P15766-193	P15766-193	H1246	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.58	NA	Wu	NA	BreedingPopulation
+P15766-192	P15766-192	P15766-192	H1245	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.82	23.42	NA	Wu	NA	BreedingPopulation
+P15766-191	P15766-191	P15766-191	H1244	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.43	16.85	NA	Wu	NA	BreedingPopulation
+P15766-190	P15766-190	P15766-190	H1242	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	20.05	NA	Wu	NA	BreedingPopulation
+P15766-189	P15766-189	P15766-189	H1239	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P15766-188	P15766-188	P15766-188	H1238	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.58	NA	Wu	NA	BreedingPopulation
+P15766-187	P15766-187	P15766-187	H1237	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.25	17.65	NA	Wu	NA	BreedingPopulation
+P15766-186	P15766-186	P15766-186	H1232	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.48	14.08	NA	Wu	NA	BreedingPopulation
+P15766-185	P15766-185	P15766-185	H829	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.3	15.98	NA	Wu	NA	BreedingPopulation
+P15766-184	P15766-184	P15766-184	H779	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.43	17.17	NA	Wu	NA	BreedingPopulation
+P15766-183	P15766-183	P15766-183	H724	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	20.05	NA	Wu	NA	BreedingPopulation
+P15766-182	P15766-182	P15766-182	H651	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.9	17.48	NA	Wu	NA	BreedingPopulation
+P15766-181	P15766-181	P15766-181	H650	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.57	19.17	NA	Wu	NA	BreedingPopulation
+P15766-180	P15766-180	P15766-180	H645	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.2	17.15	NA	Wu	NA	BreedingPopulation
+P15766-179	P15766-179	P15766-179	H642	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.73	21.63	NA	Wu	NA	BreedingPopulation
+P15766-178	P15766-178	P15766-178	H641	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.28	17.4	NA	Wu	NA	BreedingPopulation
+P15766-177	P15766-177	P15766-177	H639	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.03	15.58	NA	Wu	NA	BreedingPopulation
+P15766-176	P15766-176	P15766-176	H637	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.8	14.83	NA	Wu	NA	BreedingPopulation
+P15766-175	P15766-175	P15766-175	H636	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.08	15.32	NA	Wu	NA	BreedingPopulation
+P15766-174	P15766-174	P15766-174	H635	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.53	17.5	NA	Wu	NA	BreedingPopulation
+P15766-173	P15766-173	P15766-173	H634	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.15	14.55	NA	Wu	NA	BreedingPopulation
+P15766-172	P15766-172	P15766-172	H625	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.85	NA	Wu	NA	BreedingPopulation
+P15766-171	P15766-171	P15766-171	H624	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.62	16.48	NA	Wu	NA	BreedingPopulation
+P15766-170	P15766-170	P15766-170	H619	NA	NA	NA	P.abies	Sweden	Northern breeding population	65.4	20.93	NA	Wu	NA	BreedingPopulation
+P15766-169	P15766-169	P15766-169	H617	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.53	17.68	NA	Wu	NA	BreedingPopulation
+P15766-168	P15766-168	P15766-168	H615	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.78	16.1	NA	Wu	NA	BreedingPopulation
+P15766-167	P15766-167	P15766-167	H614	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.57	19.17	NA	Wu	NA	BreedingPopulation
+P15766-166	P15766-166	P15766-166	H611	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.57	17.72	NA	Wu	NA	BreedingPopulation
+P15766-165	P15766-165	P15766-165	H604	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.08	15.32	NA	Wu	NA	BreedingPopulation
+P15766-164	P15766-164	P15766-164	H602	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.45	18.17	NA	Wu	NA	BreedingPopulation
+P15766-163	P15766-163	P15766-163	H599	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.53	17.68	NA	Wu	NA	BreedingPopulation
+P15766-162	P15766-162	P15766-162	H596	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.43	16.85	NA	Wu	NA	BreedingPopulation
+P15766-161	P15766-161	P15766-161	H594	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	18.37	NA	Wu	NA	BreedingPopulation
+P15766-160	P15766-160	P15766-160	H593	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.8	14.83	NA	Wu	NA	BreedingPopulation
+P15766-159	P15766-159	P15766-159	H589	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.07	15.53	NA	Wu	NA	BreedingPopulation
+P15766-158	P15766-158	P15766-158	H587	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.78	18.1	NA	Wu	NA	BreedingPopulation
+P15766-157	P15766-157	P15766-157	H580	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.82	23.42	NA	Wu	NA	BreedingPopulation
+P15766-156	P15766-156	P15766-156	H579	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.28	15.98	NA	Wu	NA	BreedingPopulation
+P15766-155	P15766-155	P15766-155	H578	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.48	17.67	NA	Wu	NA	BreedingPopulation
+P15766-154	P15766-154	P15766-154	H576	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.83	NA	Wu	NA	BreedingPopulation
+P15766-153	P15766-153	P15766-153	H575	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.02	22.63	NA	Wu	NA	BreedingPopulation
+P15766-152	P15766-152	P15766-152	H572	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.62	16.48	NA	Wu	NA	BreedingPopulation
+P15766-151	P15766-151	P15766-151	H569	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.53	17.68	NA	Wu	NA	BreedingPopulation
+P15766-150	P15766-150	P15766-150	H568	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	20.05	NA	Wu	NA	BreedingPopulation
+P15766-149	P15766-149	P15766-149	H567	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.47	15.5	NA	Wu	NA	BreedingPopulation
+P15766-148	P15766-148	P15766-148	H562	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P15766-147	P15766-147	P15766-147	H559	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.5	13.82	NA	Wu	NA	BreedingPopulation
+P15766-146	P15766-146	P15766-146	H556	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.63	15.08	NA	Wu	NA	BreedingPopulation
+P15766-145	P15766-145	P15766-145	H555	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.82	17.78	NA	Wu	NA	BreedingPopulation
+P15766-144	P15766-144	P15766-144	H554	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.81	16.4	NA	Wu	NA	BreedingPopulation
+P15766-143	P15766-143	P15766-143	H553	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	18.37	NA	Wu	NA	BreedingPopulation
+P15766-142	P15766-142	P15766-142	H543	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.83	17.77	NA	Wu	NA	BreedingPopulation
+P15766-141	P15766-141	P15766-141	H541	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.85	NA	Wu	NA	BreedingPopulation
+P15766-140	P15766-140	P15766-140	H540	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.53	17.5	NA	Wu	NA	BreedingPopulation
+P15766-139	P15766-139	P15766-139	H539	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P15766-138	P15766-138	P15766-138	H538	NA	NA	NA	P.abies	Sweden	Northern breeding population	65.4	20.93	NA	Wu	NA	BreedingPopulation
+P15766-137	P15766-137	P15766-137	H535	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.48	17.67	NA	Wu	NA	BreedingPopulation
+P15766-136	P15766-136	P15766-136	H534	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.6	16.52	NA	Wu	NA	BreedingPopulation
+P15766-135	P15766-135	P15766-135	H528	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.45	18.17	NA	Wu	NA	BreedingPopulation
+P15766-134	P15766-134	P15766-134	H526	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.02	22.63	NA	Wu	NA	BreedingPopulation
+P15766-133	P15766-133	P15766-133	H525	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.68	22.65	NA	Wu	NA	BreedingPopulation
+P15766-132	P15766-132	P15766-132	H524	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.47	16.75	NA	Wu	NA	BreedingPopulation
+P15766-131	P15766-131	P15766-131	H523	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.62	16.48	NA	Wu	NA	BreedingPopulation
+P15766-130	P15766-130	P15766-130	H519	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.5	13.82	NA	Wu	NA	BreedingPopulation
+P15766-129	P15766-129	P15766-129	H517	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.47	16.75	NA	Wu	NA	BreedingPopulation
+P15766-128	P15766-128	P15766-128	H515	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.3	17.4	NA	Wu	NA	BreedingPopulation
+P15766-127	P15766-127	P15766-127	H514	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	18.37	NA	Wu	NA	BreedingPopulation
+P15766-126	P15766-126	P15766-126	H512	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.78	16.1	NA	Wu	NA	BreedingPopulation
+P15766-125	P15766-125	P15766-125	H508	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.48	17.67	NA	Wu	NA	BreedingPopulation
+P15766-124	P15766-124	P15766-124	H507	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.92	17.33	NA	Wu	NA	BreedingPopulation
+P15766-123	P15766-123	P15766-123	H504	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.82	17.78	NA	Wu	NA	BreedingPopulation
+P15766-122	P15766-122	P15766-122	H503	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.43	16.85	NA	Wu	NA	BreedingPopulation
+P15766-121	P15766-121	P15766-121	H502	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.28	14.93	NA	Wu	NA	BreedingPopulation
+P15766-120	P15766-120	P15766-120	H501	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.9	17.48	NA	Wu	NA	BreedingPopulation
+P15766-119	P15766-119	P15766-119	H499	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.58	15.87	NA	Wu	NA	BreedingPopulation
+P15766-118	P15766-118	P15766-118	H495	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.47	15.5	NA	Wu	NA	BreedingPopulation
+P15766-117	P15766-117	P15766-117	H493	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.83	NA	Wu	NA	BreedingPopulation
+P15766-116	P15766-116	P15766-116	H482	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.03	15.58	NA	Wu	NA	BreedingPopulation
+P15766-115	P15766-115	P15766-115	H481	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.92	17.5	NA	Wu	NA	BreedingPopulation
+P15766-114	P15766-114	P15766-114	H478	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.25	17.65	NA	Wu	NA	BreedingPopulation
+P15766-113	P15766-113	P15766-113	H442	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	18.37	NA	Wu	NA	BreedingPopulation
+P15766-112	P15766-112	P15766-112	H421	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.37	14.23	NA	Wu	NA	BreedingPopulation
+P15766-111	P15766-111	P15766-111	H395	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.6	16.52	NA	Wu	NA	BreedingPopulation
+P15766-110	P15766-110	P15766-110	H391	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.37	14.25	NA	Wu	NA	BreedingPopulation
+P15766-109	P15766-109	P15766-109	H386	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.53	17.5	NA	Wu	NA	BreedingPopulation
+P15766-108	P15766-108	P15766-108	H362	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.92	17.33	NA	Wu	NA	BreedingPopulation
+P15766-107	P15766-107	P15766-107	H358	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.95	16.38	NA	Wu	NA	BreedingPopulation
+P15766-106	P15766-106	P15766-106	H327	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.83	17.77	NA	Wu	NA	BreedingPopulation
+P15766-105	P15766-105	P15766-105	H324	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.48	17.67	NA	Wu	NA	BreedingPopulation
+P15766-104	P15766-104	P15766-104	H299	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	20.05	NA	Wu	NA	BreedingPopulation
+P15766-103	P15766-103	P15766-103	H284	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.62	16.48	NA	Wu	NA	BreedingPopulation
+P15766-102	P15766-102	P15766-102	H266	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.28	17.4	NA	Wu	NA	BreedingPopulation
+P15766-101	P15766-101	P15766-101	H263	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.88	16.58	NA	Wu	NA	BreedingPopulation
+P15502-296	P15502-296	P15502-296	H849	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.57	17.72	NA	Wu	NA	BreedingPopulation
+P15502-294	P15502-294	P15502-294	H690	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.07	15.53	NA	Wu	NA	BreedingPopulation
+P15502-293	P15502-293	P15502-293	H366	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.48	17.67	NA	Wu	NA	BreedingPopulation
+P15502-291	P15502-291	P15502-291	H473	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.25	17.65	NA	Wu	NA	BreedingPopulation
+P15502-290	P15502-290	P15502-290	H254	NA	NA	NA	P.abies	Sweden	Northern breeding population	65.4	20.93	NA	Wu	NA	BreedingPopulation
+P15502-289	P15502-289	P15502-289	H426	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.57	17.72	NA	Wu	NA	BreedingPopulation
+P15502-288	P15502-288	P15502-288	H1004	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.48	17.67	NA	Wu	NA	BreedingPopulation
+P15502-287	P15502-287	P15502-287	H373	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.58	18.12	NA	Wu	NA	BreedingPopulation
+P15502-286	P15502-286	P15502-286	H361	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.43	16.85	NA	Wu	NA	BreedingPopulation
+P15502-285	P15502-285	P15502-285	H933	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	18.37	NA	Wu	NA	BreedingPopulation
+P15502-284	P15502-284	P15502-284	H797	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.37	14.23	NA	Wu	NA	BreedingPopulation
+P15502-283	P15502-283	P15502-283	H431	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.83	NA	Wu	NA	BreedingPopulation
+P15502-282	P15502-282	P15502-282	H305	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.53	17.68	NA	Wu	NA	BreedingPopulation
+P15502-281	P15502-281	P15502-281	H307	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.85	NA	Wu	NA	BreedingPopulation
+P15502-280	P15502-280	P15502-280	H374	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.52	20.8	NA	Wu	NA	BreedingPopulation
+P15502-279	P15502-279	P15502-279	H703	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.47	16.75	NA	Wu	NA	BreedingPopulation
+P15502-278	P15502-278	P15502-278	H453	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.22	20.12	NA	Wu	NA	BreedingPopulation
+P15502-277	P15502-277	P15502-277	H710	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.22	20.12	NA	Wu	NA	BreedingPopulation
+P15502-276	P15502-276	P15502-276	H942	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.88	16.58	NA	Wu	NA	BreedingPopulation
+P15502-275	P15502-275	P15502-275	H292	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.38	20.75	NA	Wu	NA	BreedingPopulation
+P15502-274	P15502-274	P15502-274	H264	NA	NA	NA	P.abies	Sweden	Northern breeding population	65.1	20.55	NA	Wu	NA	BreedingPopulation
+P15502-273	P15502-273	P15502-273	H274	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.47	15.5	NA	Wu	NA	BreedingPopulation
+P15502-272	P15502-272	P15502-272	H465	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.95	16.28	NA	Wu	NA	BreedingPopulation
+P15502-271	P15502-271	P15502-271	H699	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.52	20.8	NA	Wu	NA	BreedingPopulation
+P15502-270	P15502-270	P15502-270	H697	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.92	17.67	NA	Wu	NA	BreedingPopulation
+P15502-269	P15502-269	P15502-269	H931	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.05	15.48	NA	Wu	NA	BreedingPopulation
+P15502-268	P15502-268	P15502-268	H246	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.95	16.38	NA	Wu	NA	BreedingPopulation
+P15502-267	P15502-267	P15502-267	H743	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.52	20.8	NA	Wu	NA	BreedingPopulation
+P15502-266	P15502-266	P15502-266	H413	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.85	NA	Wu	NA	BreedingPopulation
+P15502-265	P15502-265	P15502-265	H244	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.03	15.58	NA	Wu	NA	BreedingPopulation
+P15502-264	P15502-264	P15502-264	H436	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.78	16.1	NA	Wu	NA	BreedingPopulation
+P15502-263	P15502-263	P15502-263	H987	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.47	15.5	NA	Wu	NA	BreedingPopulation
+P15502-262	P15502-262	P15502-262	H430	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.02	22.63	NA	Wu	NA	BreedingPopulation
+P15502-261	P15502-261	P15502-261	H420	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.83	17.77	NA	Wu	NA	BreedingPopulation
+P15502-260	P15502-260	P15502-260	H695	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.5	13.82	NA	Wu	NA	BreedingPopulation
+P15502-259	P15502-259	P15502-259	H367	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	20.05	NA	Wu	NA	BreedingPopulation
+P15502-258	P15502-258	P15502-258	H251	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.05	15.48	NA	Wu	NA	BreedingPopulation
+P15502-257	P15502-257	P15502-257	H300	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.78	16.1	NA	Wu	NA	BreedingPopulation
+P15502-256	P15502-256	P15502-256	H689	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.9	17.48	NA	Wu	NA	BreedingPopulation
+P15502-255	P15502-255	P15502-255	H410	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.83	NA	Wu	NA	BreedingPopulation
+P15502-254	P15502-254	P15502-254	H368	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.53	17.5	NA	Wu	NA	BreedingPopulation
+P15502-253	P15502-253	P15502-253	H470	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.47	15.5	NA	Wu	NA	BreedingPopulation
+P15502-252	P15502-252	P15502-252	H302	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	16.92	NA	Wu	NA	BreedingPopulation
+P15502-251	P15502-251	P15502-251	H800	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.83	17.77	NA	Wu	NA	BreedingPopulation
+P15502-250	P15502-250	P15502-250	H303	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.5	17.35	NA	Wu	NA	BreedingPopulation
+P15502-249	P15502-249	P15502-249	H669	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.52	20.8	NA	Wu	NA	BreedingPopulation
+P15502-248	P15502-248	P15502-248	H236	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.95	16.28	NA	Wu	NA	BreedingPopulation
+P15502-247	P15502-247	P15502-247	H399	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.07	15.53	NA	Wu	NA	BreedingPopulation
+P15502-246	P15502-246	P15502-246	H708	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.47	15.5	NA	Wu	NA	BreedingPopulation
+P15502-245	P15502-245	P15502-245	H343	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.92	17.83	NA	Wu	NA	BreedingPopulation
+P15502-244	P15502-244	P15502-244	H339	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P15502-242	P15502-242	P15502-242	H239	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.47	16.75	NA	Wu	NA	BreedingPopulation
+P15502-241	P15502-241	P15502-241	H234	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	18.37	NA	Wu	NA	BreedingPopulation
+P15502-240	P15502-240	P15502-240	H670	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.82	23.42	NA	Wu	NA	BreedingPopulation
+P15502-239	P15502-239	P15502-239	H769	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.28	15.98	NA	Wu	NA	BreedingPopulation
+P15502-238	P15502-238	P15502-238	H469	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.92	17.33	NA	Wu	NA	BreedingPopulation
+P15502-237	P15502-237	P15502-237	H375	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.47	16.75	NA	Wu	NA	BreedingPopulation
+P15502-236	P15502-236	P15502-236	H468	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.57	17.72	NA	Wu	NA	BreedingPopulation
+P15502-235	P15502-235	P15502-235	H432	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P15502-234	P15502-234	P15502-234	H355	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.68	22.65	NA	Wu	NA	BreedingPopulation
+P15502-233	P15502-233	P15502-233	H278	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.98	16.9	NA	Wu	NA	BreedingPopulation
+P15502-232	P15502-232	P15502-232	H293	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.73	21.03	NA	Wu	NA	BreedingPopulation
+P15502-231	P15502-231	P15502-231	H1191	NA	NA	NA	P.abies	Sweden	Northern breeding population	65.22	16.47	NA	Wu	NA	BreedingPopulation
+P15502-230	P15502-230	P15502-230	H215	NA	NA	NA	P.abies	Sweden	Northern breeding population	65.1	20.55	NA	Wu	NA	BreedingPopulation
+P15502-229	P15502-229	P15502-229	H360	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	16.92	NA	Wu	NA	BreedingPopulation
+P15502-228	P15502-228	P15502-228	H356	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	20.05	NA	Wu	NA	BreedingPopulation
+P15502-227	P15502-227	P15502-227	H741	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.35	21.5	NA	Wu	NA	BreedingPopulation
+P15502-226	P15502-226	P15502-226	H889	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.25	17.65	NA	Wu	NA	BreedingPopulation
+P15502-225	P15502-225	P15502-225	H277	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.57	19.17	NA	Wu	NA	BreedingPopulation
+P15502-224	P15502-224	P15502-224	H677	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.15	14.55	NA	Wu	NA	BreedingPopulation
+P15502-222	P15502-222	P15502-222	H893	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.45	18.17	NA	Wu	NA	BreedingPopulation
+P15502-221	P15502-221	P15502-221	H456	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.33	20.33	NA	Wu	NA	BreedingPopulation
+P15502-220	P15502-220	P15502-220	H335	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.63	15.08	NA	Wu	NA	BreedingPopulation
+P15502-219	P15502-219	P15502-219	H248	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.33	21.3	NA	Wu	NA	BreedingPopulation
+P15502-218	P15502-218	P15502-218	H247	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.6	23.07	NA	Wu	NA	BreedingPopulation
+P15502-217	P15502-217	P15502-217	H273	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.45	15.85	NA	Wu	NA	BreedingPopulation
+P15502-216	P15502-216	P15502-216	H479	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	16.92	NA	Wu	NA	BreedingPopulation
+P15502-215	P15502-215	P15502-215	H496	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.28	17.4	NA	Wu	NA	BreedingPopulation
+P15502-214	P15502-214	P15502-214	H225	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P15502-213	P15502-213	P15502-213	H441	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.05	15.48	NA	Wu	NA	BreedingPopulation
+P15502-212	P15502-212	P15502-212	H332	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.45	18.17	NA	Wu	NA	BreedingPopulation
+P15502-211	P15502-211	P15502-211	H886	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.63	14.43	NA	Wu	NA	BreedingPopulation
+P15502-210	P15502-210	P15502-210	H434	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P15502-209	P15502-209	P15502-209	H320	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.07	15.53	NA	Wu	NA	BreedingPopulation
+P15502-208	P15502-208	P15502-208	H764	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.43	16.85	NA	Wu	NA	BreedingPopulation
+P15502-207	P15502-207	P15502-207	H902	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.08	15.32	NA	Wu	NA	BreedingPopulation
+P15502-206	P15502-206	P15502-206	H480	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.95	16.38	NA	Wu	NA	BreedingPopulation
+P15502-205	P15502-205	P15502-205	H461	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.78	16.1	NA	Wu	NA	BreedingPopulation
+P15502-204	P15502-204	P15502-204	H887	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.08	15.32	NA	Wu	NA	BreedingPopulation
+P15502-203	P15502-203	P15502-203	H440	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.57	17.72	NA	Wu	NA	BreedingPopulation
+P15502-202	P15502-202	P15502-202	H322	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.48	17.67	NA	Wu	NA	BreedingPopulation
+P15502-201	P15502-201	P15502-201	H227	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.6	16.52	NA	Wu	NA	BreedingPopulation
+P15502-196	P15502-196	P15502-196	H235	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.75	16.6	NA	Wu	NA	BreedingPopulation
+P15502-195	P15502-195	P15502-195	H661	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.78	18.1	NA	Wu	NA	BreedingPopulation
+P15502-194	P15502-194	P15502-194	H709	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P15502-193	P15502-193	P15502-193	H660	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.37	14.25	NA	Wu	NA	BreedingPopulation
+P15502-192	P15502-192	P15502-192	H488	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P15502-191	P15502-191	P15502-191	H422	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.83	17.55	NA	Wu	NA	BreedingPopulation
+P15502-190	P15502-190	P15502-190	H258	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.33	20.33	NA	Wu	NA	BreedingPopulation
+P15502-189	P15502-189	P15502-189	H730	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.43	16.85	NA	Wu	NA	BreedingPopulation
+P15502-188	P15502-188	P15502-188	H423	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.53	17.5	NA	Wu	NA	BreedingPopulation
+P15502-187	P15502-187	P15502-187	H654	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.95	16.28	NA	Wu	NA	BreedingPopulation
+P15502-186	P15502-186	P15502-186	H666	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.6	16.52	NA	Wu	NA	BreedingPopulation
+P15502-185	P15502-185	P15502-185	H351	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.25	17.65	NA	Wu	NA	BreedingPopulation
+P15502-184	P15502-184	P15502-184	H722	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.5	13.82	NA	Wu	NA	BreedingPopulation
+P15502-183	P15502-183	P15502-183	H869	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.48	17.67	NA	Wu	NA	BreedingPopulation
+P15502-182	P15502-182	P15502-182	H459	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.58	NA	Wu	NA	BreedingPopulation
+P15502-181	P15502-181	P15502-181	H252	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.87	15	NA	Wu	NA	BreedingPopulation
+P15502-180	P15502-180	P15502-180	H296	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P15502-179	P15502-179	P15502-179	H429	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.85	NA	Wu	NA	BreedingPopulation
+P15502-178	P15502-178	P15502-178	H901	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.9	17.48	NA	Wu	NA	BreedingPopulation
+P15502-177	P15502-177	P15502-177	H306	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.57	17.72	NA	Wu	NA	BreedingPopulation
+P15502-176	P15502-176	P15502-176	H965	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.63	15.08	NA	Wu	NA	BreedingPopulation
+P15502-175	P15502-175	P15502-175	H346	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.53	17.68	NA	Wu	NA	BreedingPopulation
+P15502-174	P15502-174	P15502-174	H344	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.62	16.48	NA	Wu	NA	BreedingPopulation
+P15502-173	P15502-173	P15502-173	H835	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.47	15.5	NA	Wu	NA	BreedingPopulation
+P15502-172	P15502-172	P15502-172	H445	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.75	16.6	NA	Wu	NA	BreedingPopulation
+P15502-171	P15502-171	P15502-171	H425	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.22	20.12	NA	Wu	NA	BreedingPopulation
+P15502-170	P15502-170	P15502-170	H879	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.45	15.85	NA	Wu	NA	BreedingPopulation
+P15502-169	P15502-169	P15502-169	H1034	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.82	17.62	NA	Wu	NA	BreedingPopulation
+P15502-168	P15502-168	P15502-168	H241	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.38	20.75	NA	Wu	NA	BreedingPopulation
+P15502-167	P15502-167	P15502-167	H574	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.78	16.1	NA	Wu	NA	BreedingPopulation
+P15502-166	P15502-166	P15502-166	H304	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P15502-165	P15502-165	P15502-165	H683	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.43	16.85	NA	Wu	NA	BreedingPopulation
+P15502-164	P15502-164	P15502-164	H243	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.8	14.83	NA	Wu	NA	BreedingPopulation
+P15502-163	P15502-163	P15502-163	H259	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.82	23.42	NA	Wu	NA	BreedingPopulation
+P15502-162	P15502-162	P15502-162	H707	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.5	16.65	NA	Wu	NA	BreedingPopulation
+P15502-161	P15502-161	P15502-161	H1033	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.28	17.4	NA	Wu	NA	BreedingPopulation
+P15502-160	P15502-160	P15502-160	H1037	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.58	NA	Wu	NA	BreedingPopulation
+P15502-159	P15502-159	P15502-159	H896	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.2	17.15	NA	Wu	NA	BreedingPopulation
+P15502-158	P15502-158	P15502-158	H454	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.78	18.1	NA	Wu	NA	BreedingPopulation
+P15502-157	P15502-157	P15502-157	H330	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.68	22.65	NA	Wu	NA	BreedingPopulation
+P15502-156	P15502-156	P15502-156	H457	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.15	18.67	NA	Wu	NA	BreedingPopulation
+P15502-155	P15502-155	P15502-155	H500	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	20.05	NA	Wu	NA	BreedingPopulation
+P15502-154	P15502-154	P15502-154	H748	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.48	17.67	NA	Wu	NA	BreedingPopulation
+P15502-153	P15502-153	P15502-153	H313	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.73	21.03	NA	Wu	NA	BreedingPopulation
+P15502-152	P15502-152	P15502-152	H451	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.83	17.77	NA	Wu	NA	BreedingPopulation
+P15502-151	P15502-151	P15502-151	H490	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.58	18.12	NA	Wu	NA	BreedingPopulation
+P15502-150	P15502-150	P15502-150	H428	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.28	15.98	NA	Wu	NA	BreedingPopulation
+P15502-149	P15502-149	P15502-149	H268	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.88	16.58	NA	Wu	NA	BreedingPopulation
+P15502-148	P15502-148	P15502-148	H315	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	18.37	NA	Wu	NA	BreedingPopulation
+P15502-147	P15502-147	P15502-147	H497	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.85	NA	Wu	NA	BreedingPopulation
+P15502-146	P15502-146	P15502-146	H308	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.2	17.15	NA	Wu	NA	BreedingPopulation
+P15502-145	P15502-145	P15502-145	H688	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.82	17.57	NA	Wu	NA	BreedingPopulation
+P15502-144	P15502-144	P15502-144	H686	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.05	15.48	NA	Wu	NA	BreedingPopulation
+P15502-143	P15502-143	P15502-143	H729	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.67	16.6	NA	Wu	NA	BreedingPopulation
+P15502-142	P15502-142	P15502-142	H383	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.68	22.65	NA	Wu	NA	BreedingPopulation
+P15502-141	P15502-141	P15502-141	H245	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.43	16.85	NA	Wu	NA	BreedingPopulation
+P15502-140	P15502-140	P15502-140	H718	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	18.37	NA	Wu	NA	BreedingPopulation
+P15502-139	P15502-139	P15502-139	H238	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.95	16.28	NA	Wu	NA	BreedingPopulation
+P15502-138	P15502-138	P15502-138	H276	NA	NA	NA	P.abies	Sweden	Northern breeding population	61	13.3	NA	Wu	NA	BreedingPopulation
+P15502-137	P15502-137	P15502-137	H664	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.02	22.63	NA	Wu	NA	BreedingPopulation
+P15502-136	P15502-136	P15502-136	H467	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.88	18.27	NA	Wu	NA	BreedingPopulation
+P15502-135	P15502-135	P15502-135	H345	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.58	18.12	NA	Wu	NA	BreedingPopulation
+P15502-134	P15502-134	P15502-134	H693	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.73	21.63	NA	Wu	NA	BreedingPopulation
+P15502-133	P15502-133	P15502-133	H257	NA	NA	NA	P.abies	Sweden	Northern breeding population	60.33	17.55	NA	Wu	NA	BreedingPopulation
+P15502-132	P15502-132	P15502-132	H738	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.08	15.32	NA	Wu	NA	BreedingPopulation
+P15502-131	P15502-131	P15502-131	H439	NA	NA	NA	P.abies	Sweden	Northern breeding population	61.6	16.52	NA	Wu	NA	BreedingPopulation
+P15502-130	P15502-130	P15502-130	H347	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.03	15.58	NA	Wu	NA	BreedingPopulation
+P15502-129	P15502-129	P15502-129	H673	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.82	17.78	NA	Wu	NA	BreedingPopulation
+P15502-128	P15502-128	P15502-128	H711	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.85	14.33	NA	Wu	NA	BreedingPopulation
+P15502-127	P15502-127	P15502-127	H294	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P15502-126	P15502-126	P15502-126	H272	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.22	20.12	NA	Wu	NA	BreedingPopulation
+P15502-125	P15502-125	P15502-125	H333	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.43	16.85	NA	Wu	NA	BreedingPopulation
+P15502-124	P15502-124	P15502-124	H704	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.3	17.4	NA	Wu	NA	BreedingPopulation
+P15502-122	P15502-122	P15502-122	H458	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.88	16.58	NA	Wu	NA	BreedingPopulation
+P15502-121	P15502-121	P15502-121	H712	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.53	17.68	NA	Wu	NA	BreedingPopulation
+P15502-120	P15502-120	P15502-120	H667	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.37	14.25	NA	Wu	NA	BreedingPopulation
+P15502-119	P15502-119	P15502-119	H233	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.38	20.75	NA	Wu	NA	BreedingPopulation
+P15502-118	P15502-118	P15502-118	H466	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.52	20.8	NA	Wu	NA	BreedingPopulation
+P15502-117	P15502-117	P15502-117	H331	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.18	19.83	NA	Wu	NA	BreedingPopulation
+P15502-116	P15502-116	P15502-116	H485	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.7	16.92	NA	Wu	NA	BreedingPopulation
+P15502-115	P15502-115	P15502-115	H744	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.48	14.08	NA	Wu	NA	BreedingPopulation
+P15502-114	P15502-114	P15502-114	H275	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.53	17.68	NA	Wu	NA	BreedingPopulation
+P15502-113	P15502-113	P15502-113	H348	NA	NA	NA	P.abies	Sweden	Northern breeding population	66.02	22.63	NA	Wu	NA	BreedingPopulation
+P15502-112	P15502-112	P15502-112	H736	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P15502-111	P15502-111	P15502-111	H295	NA	NA	NA	P.abies	Sweden	Northern breeding population	65.4	20.93	NA	Wu	NA	BreedingPopulation
+P15502-110	P15502-110	P15502-110	H337	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.57	17.72	NA	Wu	NA	BreedingPopulation
+P15502-109	P15502-109	P15502-109	H250	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.05	15.48	NA	Wu	NA	BreedingPopulation
+P15502-105	P15502-105	P15502-105	H334	NA	NA	NA	P.abies	Sweden	Northern breeding population	63.2	17.15	NA	Wu	NA	BreedingPopulation
+P15502-104	P15502-104	P15502-104	H297	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.45	15.85	NA	Wu	NA	BreedingPopulation
+P15502-103	P15502-103	P15502-103	H349	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.73	21.03	NA	Wu	NA	BreedingPopulation
+P15502-102	P15502-102	P15502-102	H338	NA	NA	NA	P.abies	Sweden	Northern breeding population	64.73	21.03	NA	Wu	NA	BreedingPopulation
+P15502-101	P15502-101	P15502-101	H271	NA	NA	NA	P.abies	Sweden	Northern breeding population	62.63	15.05	NA	Wu	NA	BreedingPopulation
+P27356-101	P27356-101	P27356-101	Lis60	NA	NA	NA	P.abies	Germany	Lisjo_IUFRO6468	47.90	8.00	750	Wu	ONT	RangeWide
+P27356-102	P27356-102	P27356-102	Lis72	NA	NA	NA	P.abies	Norway	Lisjo_IUFRO6468	65.40	12.50	100	Wu	ONT	RangeWide
+P27356-103	P27356-103	P27356-103	Lis78	NA	NA	NA	P.abies	Bulgaria	Lisjo_IUFRO6468	41.80	24.20	1850	Wu	ONT	RangeWide
+P27356-104	P27356-104	P27356-104	Lis208	NA	NA	NA	P.abies	Russia	Lisjo_IUFRO6468	58.00	53.00	200	Wu	ONT	RangeWide
+P27356-105	P27356-105	P27356-105	Lis252	NA	NA	NA	P.abies	Poland	Lisjo_IUFRO6468	54.10	22.10	160	Wu	ONT	RangeWide
+P27356-106	P27356-106	P27356-106	OB167	NA	NA	NA	P.abies	Sweden	Lappkoj_IUFRO6468	56.90	14.10	175	Wu	ONT	RangeWide
+P27356-107	P27356-107	P27356-107	OB63	NA	NA	NA	P.abies	Czech Republic	Lappkoj_IUFRO6468	49.40	17.80	560	Wu	ONT	RangeWide
+P27356-108	P27356-108	P27356-108	NR_19	NA	NA	NA	P.abies	Russia	F669	63.70	48.53	NA	Wu	ONT/same as P24354-102	RangeWide
+P27356-109	P27356-109	P27356-109	S-H_1397	NA	NA	NA	P.abies	Finland	Häggnås	67.23	24.45	270	Wu	ONT/same as P22451-245	RangeWide
+P27356-110	P27356-110	P27356-110	B3-59-2	NA	NA	NA	P.abies	Russia	Hungary_IUFRO6468	54.30	41.00	150	Wu	ONT	RangeWide
