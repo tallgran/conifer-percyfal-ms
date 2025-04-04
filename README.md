@@ -7,6 +7,8 @@
 <!--
 [![BioConda](https://img.shields.io/badge/install%20with-bioconda-brightgreen.svg)](http://bioconda.github.io/recipes/conifer/README.html)
 -->
+[![DOI](https://zenodo.org/badge/960077764.svg)](https://doi.org/10.5281/zenodo.15141800)
+
 
 # conifer
 
