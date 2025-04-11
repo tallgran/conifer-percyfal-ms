@@ -27,7 +27,34 @@ This will install the python module `conifer`. Type
 
     conifer
 
-for help on the analyses and how to run tools.
+for help on the analyses and how to run tools. This will produce the
+help output (here abbreviated):
+
+    Usage: conifer [OPTIONS] COMMAND [ARGS]...
+
+      Console script for conifer
+
+      Collection of scripts and workflows to run conifer analyses.
+
+      ## Installation
+
+      See README.md for installation instructions.
+
+      ## Quick usage
+
+      ...
+
+    Options:
+      --version           Show the version and exit.
+      --config-file PATH  configuration file
+      --debug             Print debugging information.
+      --help              Show this message and exit.
+
+    Commands:
+      datasources  Run datasources setup.
+      manuscript   Generate data for manuscript submission.
+      smk          Run snakemake workflows.
+      tools        Conifer tools and scripts.
 
 ## Conda environment
 
@@ -59,12 +86,11 @@ to generate samplesheet `resources/samplesheet.tsv`.
 ## Datasources
 
 Data provenance is tracked in `resources/datasources.yaml` and setup
-using the [datasources](https://github.com/percyfal/datasources-smk)
-workflow.
+using the `datasources-run.smk` workflow.
 
 To setup datasources run
 
-    conifer datasources
+    conifer datasources run
 
 # Running analyses
 
